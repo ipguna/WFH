@@ -37,15 +37,15 @@ Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to 
 - Menyediakan page khusus dari domain UB atau sub-page BTI berisi panduan/petunjuk pelaksanaan persiapan dan pelaksanaan pembelajaran daring
 
 - Alternatif penempatan page petunjuk
-+ https://bakrie.ac.id/jakun
-+ https://www.bakrie.ac.id/en/online-class-preparation/
-+ https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
+    + https://bakrie.ac.id/jakun
+    + https://www.bakrie.ac.id/en/online-class-preparation/
+    + https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
 
 - Saran _to do list_ update [dokumen panduan perkuliahan daring](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf)
 
-+ Petunjuk cara student menjawab/mensubmit hasil kerjaan/jawaban/tugas mahasiswa. 
-+ Petunjuk untuk membuat materi online berbasis ‘Lesson’ pada moodle yang seharusnya menjadi prioritas utama utk dosen tetap UB dengan pertimbangan bahwa kemampuan fasilitas/tools di BIG 2.0 sebenarnya lebih dari cukup untuk kebutuhan online course saat ini. Hanya tinggal bagaimana cara kita bisa memanfaatkannya saja
-+ Tambahan: panduan set up _online learning course_ di platform lain selain BIG 2.0 (spt Google classroom, webex, dsb), terutama jika misalnya dosen akan mengadakan kelas berbasis conference (Skenario 3 - Advanced). 
+    + Petunjuk cara student menjawab/mensubmit hasil kerjaan/jawaban/tugas mahasiswa. 
+    + Petunjuk untuk membuat materi online berbasis ‘Lesson’ pada moodle yang seharusnya menjadi prioritas utama utk dosen tetap UB dengan pertimbangan bahwa kemampuan fasilitas/tools di BIG 2.0 sebenarnya lebih dari cukup untuk kebutuhan online course saat ini. Hanya tinggal bagaimana cara kita bisa memanfaatkannya saja
+    + Tambahan: panduan set up _online learning course_ di platform lain selain BIG 2.0 (spt Google classroom, webex, dsb), terutama jika misalnya dosen akan mengadakan kelas berbasis conference (Skenario 3 - Advanced). 
 
 Contoh panduan platform non-BIG 2.0: 
 
