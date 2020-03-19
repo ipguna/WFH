@@ -3,6 +3,14 @@ Daily activities log during WFH period
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
+Table of contents:
+
+1. [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
+2. [Day 02 : 2020-03-17 (Tue)](#day-02--2020-03-17-tue)
+3. [Day 03 : 2020-03-18 (Wed)](#day-03--2020-03-18-wed)
+4. [Day 04 : 2020-03-19 (Thu)](#day-04--2020-03-19-thu)
+
+
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-16)
 
 ### Aktivitas
@@ -69,7 +77,9 @@ Contoh panduan platform non-BIG 2.0:
     
     Explorasi simulasi ini dilakukan karena berdasarkan rujukan paper yang digunakan [1], model matematika penyebaran kasus nCovid-19 ini merupakan solusi dari persamaan diferensial orde pertama. Akan dilihat apakah persamaan matematika pada kasus ini bisa diterapkan untuk materi kuliah Kalkulus 2.
 
-    Referensi [1]. Nuraini, Nuning and Khairudin, Kamal and Apri, Mochamad. Data dan Simulasi COVID-19 dipandang dari Pendekatan Model Matematika. Preprint. (Submitted) http://eprints.itb.ac.id/119/
+    Referensi:
+
+    [1]. Nuraini, Nuning and Khairudin, Kamal and Apri, Mochamad. "Data dan Simulasi COVID-19 dipandang dari Pendekatan Model Matematika". Preprint. (Submitted) http://eprints.itb.ac.id/119/
 
 ### Dokumen
 
