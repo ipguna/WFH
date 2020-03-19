@@ -18,6 +18,10 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 
 ## Day 02 : 2020-03-17 (Tue)
 
+- Persiapan materi perkuliahan DSP (untuk jadwal reguler hari Rabu pkl. 07:30-10.00)
+- Update dokumen panduan perkuliahan secara daring untuk mahasiswa
+- Komunikasi (ref. email) kepada Kabiro HRD dan Kabiro IT mengenai saran dan masukan petunjuk pelaksanaan pembelajaran daring
+
 Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to Kabiro HRD dan Kabiro IT)
 
 - Menyediakan page khusus dari domain UB atau sub-page BTI berisi panduan/petunjuk pelaksanaan persiapan dan pelaksanaan pembelajaran daring
