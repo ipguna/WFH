@@ -52,6 +52,7 @@ Contoh panduan platform non-BIG 2.0:
 
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Explorasi - simulasi penyebaran pasien nCovid-19 menggunakan python
+    
     Explorasi simulasi ini dilakukan karena berdasarkan rujukan paper yang digunakan [1], model matematika penyebaran kasus nCovid-19 ini merupakan solusi dari persamaan diferensial orde pertama. Akan dilihat apakah persamaan matematika pada kasus ini bisa diterapkan untuk materi kuliah Kalkulus 2. 
 
 Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-18)
