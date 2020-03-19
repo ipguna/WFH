@@ -1,6 +1,8 @@
 # WFH
 Daily activities log during WFH period
 
+_Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
+
 ## [Day 01 : 2020-03-16](https://github.com/ipguna/WFH/tree/master/2020-03-16)
 
 - Persiapan materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
@@ -21,7 +23,7 @@ Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to 
 - Menyediakan page khusus dari domain UB atau sub-page BTI berisi panduan/petunjuk pelaksanaan persiapan dan pelaksanaan pembelajaran daring
 
 - Alternatif penempatan page petunjuk
-++ https://bakrie.ac.id/jakun
-++ https://www.bakrie.ac.id/en/online-class-preparation/
-++ https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
+	+ https://bakrie.ac.id/jakun
+	+ https://www.bakrie.ac.id/en/online-class-preparation/
+	+ https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
 
