@@ -9,6 +9,8 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Persiapan materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 - Penulisan [dokumen panduan](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf) perkuliahan secara daring untuk mahasiswa
 
+Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-16)
+
 ### Persiapan materi perkuliahan
 
 - Pembuatan dan upload slide materi ke elearning moodle BIG 2.0
@@ -21,6 +23,8 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Persiapan materi perkuliahan DSP (untuk jadwal reguler hari Rabu pkl. 07:30-10.00)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Komunikasi (ref. email) kepada Kabiro HRD dan Kabiro IT mengenai saran dan masukan petunjuk pelaksanaan pembelajaran daring
+
+Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-17)
 
 Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to Kabiro HRD dan Kabiro IT)
 
@@ -42,4 +46,21 @@ Contoh panduan platform non-BIG 2.0:
 - Panduan membuat materi via Webex: https://drive.google.com/file/d/1A3TbXG4MNXbNhMIHS9eyXxGLWcDP2o7l/view?usp=sharing
 - Panduan conference menggunakan Jitsi Meet:  https://www.youtube.com/watch?v=6pJRWI9eZgo
 - Panduan Google Classroom / Google Hangout: https://www.youtube.com/watch?v=ZeACf_Slsb8
+
+
+## [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/2020-03-18)
+
+- Update dokumen panduan perkuliahan secara daring untuk mahasiswa
+- Explorasi - simulasi penyebaran pasien nCovid-19 menggunakan python
+    Explorasi simulasi ini dilakukan karena berdasarkan rujukan paper yang digunakan [1], model matematika penyebaran kasus nCovid-19 ini merupakan solusi dari persamaan diferensial orde pertama. Akan dilihat apakah persamaan matematika pada kasus ini bisa diterapkan untuk materi kuliah Kalkulus 2. 
+
+Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-18)
+
+
+## [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/2020-03-19)
+
+- Penyajian online materi perkuliahan Komunikasi Nirkabel (untuk jadwal reguler hari Kamis pkl. 10.10-12.40)
+- Update dokumen panduan perkuliahan secara daring untuk mahasiswa
+
+Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-19)
 
