@@ -16,7 +16,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Setting up chat online dan forum diskusi pada Moodle di BIG 2.0.
 
 
-## Day 02 : 2020-03-17 (Tue)
+## [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/2020-03-17)
 
 - Persiapan materi perkuliahan DSP (untuk jadwal reguler hari Rabu pkl. 07:30-10.00)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
