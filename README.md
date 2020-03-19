@@ -21,7 +21,7 @@ Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to 
 - Menyediakan page khusus dari domain UB atau sub-page BTI berisi panduan/petunjuk pelaksanaan persiapan dan pelaksanaan pembelajaran daring
 
 - Alternatif penempatan page petunjuk
-+ https://bakrie.ac.id/jakun
-+ https://www.bakrie.ac.id/en/online-class-preparation/
-+ https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
+++ https://bakrie.ac.id/jakun
+++ https://www.bakrie.ac.id/en/online-class-preparation/
+++ https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
 
