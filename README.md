@@ -30,7 +30,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Komunikasi (ref. email) kepada Kabiro HRD dan Kabiro IT mengenai saran dan masukan petunjuk pelaksanaan pembelajaran daring
 
-#### Komunikasi
+### Komunikasi
 
 Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to Kabiro HRD dan Kabiro IT)
 
@@ -47,7 +47,7 @@ Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to 
 + Petunjuk untuk membuat materi online berbasis ‘Lesson’ pada moodle yang seharusnya menjadi prioritas utama utk dosen tetap UB dengan pertimbangan bahwa kemampuan fasilitas/tools di BIG 2.0 sebenarnya lebih dari cukup untuk kebutuhan online course saat ini. Hanya tinggal bagaimana cara kita bisa memanfaatkannya saja
 + Tambahan: panduan set up _online learning course_ di platform lain selain BIG 2.0 (spt Google classroom, webex, dsb), terutama jika misalnya dosen akan mengadakan kelas berbasis conference (Skenario 3 - Advanced). 
 
-#### Contoh panduan platform non-BIG 2.0: 
+Contoh panduan platform non-BIG 2.0: 
 
 - Panduan membuat materi via Webex: https://drive.google.com/file/d/1A3TbXG4MNXbNhMIHS9eyXxGLWcDP2o7l/view?usp=sharing
 - Panduan conference menggunakan Jitsi Meet:  https://www.youtube.com/watch?v=6pJRWI9eZgo
