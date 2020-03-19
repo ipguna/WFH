@@ -3,7 +3,7 @@ Daily activities log during WFH period
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
-Table of contents:
+### Table of contents:
 
 1. [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
 2. [Day 02 : 2020-03-17 (Tue)](#day-02--2020-03-17-tue)
