@@ -90,8 +90,12 @@ Contoh panduan platform non-BIG 2.0:
 
 ### Aktivitas
 
-- Penyajian online materi perkuliahan Komunikasi Nirkabel (untuk jadwal reguler hari Kamis pkl. 10.10-12.40)
+- Penyajian online materi perkuliahan Komunikasi Nirkabel (untuk jadwal reguler hari Kamis pkl. 10.10-12.40 WIB)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
+- Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python
+    +   Tampilan results hasil simulasi pada console/terminal
+    +   TODO: menyimpan results hasil simulasi dalam bentuk datafile dengan format csv
+    +   TODO: otomatisasi pembacaan/parsing data mentah dari web
 
 ### Dokumen
 
