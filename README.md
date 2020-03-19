@@ -5,11 +5,15 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-16)
 
+### Aktivitas
+
 - Persiapan materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
 - Persiapan materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 - Penulisan [dokumen panduan](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf) perkuliahan secara daring untuk mahasiswa
 
-Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-16)
+### Dokumen: 
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-16)
 
 ### Persiapan materi perkuliahan
 
@@ -20,11 +24,17 @@ Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-0
 
 ## [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/2020-03-17)
 
+### Aktivitas
+
 - Persiapan materi perkuliahan DSP (untuk jadwal reguler hari Rabu pkl. 07:30-10.00)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Komunikasi (ref. email) kepada Kabiro HRD dan Kabiro IT mengenai saran dan masukan petunjuk pelaksanaan pembelajaran daring
 
-Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-17)
+### Dokumen
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-17)
+
+### Komunikasi
 
 Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to Kabiro HRD dan Kabiro IT)
 
@@ -50,12 +60,16 @@ Contoh panduan platform non-BIG 2.0:
 
 ## [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/2020-03-18)
 
+### Aktivitas
+
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Explorasi - simulasi penyebaran pasien nCovid-19 menggunakan python
     
     Explorasi simulasi ini dilakukan karena berdasarkan rujukan paper yang digunakan [1], model matematika penyebaran kasus nCovid-19 ini merupakan solusi dari persamaan diferensial orde pertama. Akan dilihat apakah persamaan matematika pada kasus ini bisa diterapkan untuk materi kuliah Kalkulus 2. 
 
-Dokumen: [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-18)
+### Dokumen
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-18)
 
 
 ## [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/2020-03-19)
