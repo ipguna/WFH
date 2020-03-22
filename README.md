@@ -285,3 +285,10 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
 # TODO: Penambahan fitur menyimpan results dalam csv file dan menyimpan konfigurasi simulasi dalam file teks
 
  -->
+
+
+# Todo List
+* [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
+* [ ] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
+* [ ] Menyimpan konfigurasi simulasi dalam file tersendiri
+
