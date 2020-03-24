@@ -332,15 +332,18 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 
 # TODO: Penambahan fitur menyimpan results dalam csv file dan menyimpan konfigurasi simulasi dalam file teks
 
+# TODO: Updata data global https://github.com/CSSEGISandData/COVID-19
+
  -->
 
 
 # Todo List
 * [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
+* [ ] Simulasi menggunakan data worlwide
 * [ ] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
 * [ ] Menyimpan konfigurasi simulasi dalam file tersendiri
 * [X] RPS Update - DSP \[DONE\]
-* [ ] RPS Update - Calculus 2
+* [x] RPS Update - Calculus 2
 * [ ] RPS Update - Discrete Mathematics
 * [ ] RPS Update - Wireless Communications
 
