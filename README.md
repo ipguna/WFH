@@ -5,13 +5,18 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 
 ### Table of contents:
 
+- Week 1
+    - [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
+    - [Day 02 : 2020-03-17 (Tue)](#day-02--2020-03-17-tue)
+    - [Day 03 : 2020-03-18 (Wed)](#day-03--2020-03-18-wed)
+    - [Day 04 : 2020-03-19 (Thu)](#day-04--2020-03-19-thu)
+    - [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)
+    - [Day 06 : 2020-03-21 (Sat)](#day-06--2020-03-21-sat)
+    - [Day 07 : 2020-03-22 (Sun)](#day-07--2020-03-22-sun)
 
-1. [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
-2. [Day 02 : 2020-03-17 (Tue)](#day-02--2020-03-17-tue)
-3. [Day 03 : 2020-03-18 (Wed)](#day-03--2020-03-18-wed)
-4. [Day 04 : 2020-03-19 (Thu)](#day-04--2020-03-19-thu)
-5. [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)
-6. [Day 06 : 2020-03-21 (Sat)](#day-06--2020-03-21-sat)
+- Week 2
+    - [Day 08 : 2020-03-23 (Mon)](#day-01--2020-03-23-mon)
+    - [Day 09 : 2020-03-24 (Tue)](#day-01--2020-03-24-tue)
 
 
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-16)
@@ -280,6 +285,47 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
     filetype = '.csv'
     filename = basename + timestampStr + filetype
 
+
+## [Day 07 : 2020-03-22 (Sun)](https://github.com/ipguna/WFH/tree/master/2020-03-22)
+
+### Aktivitas
+
+- Eksplorasi beberapa platform e-learning yang digunakan oleh beberapa kampus di Indonesia.
+- Persiapan materi perkuliahan
+
+### E-learning kampus
+
+- UAD: https://elearning.uad.ac.id/
+     + [Pedoman Elearning bagi Pengampu](https://elearning.uad.ac.id/mod/resource/view.php?id=2746)
+     + [Pedoman Elearning bagi Mahasiswa](https://elearning.uad.ac.id/mod/resource/view.php?id=3414)
+- STKIP Panca Sakti: https://e-learning.panca-sakti.ac.id/
+- UNS: https://ocw.uns.ac.id/site/index
+- ITB: https://kuliah.itb.ac.id/portal/
+
+Yang cukup menarik adalah platform e-learning yang digunakan oleh UAD karena menggunakan moodle seperti halnya UB; perbedaannya, versi moodle yang digunakan oleh UB lebih up-to-date. Ini bisa dilihat dari dokumen panduan e-learning yang disediakan.
+
+Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pada saat ini bebas biaya dengan kuota 30 GB (Layanan Bebas Akses Ilmupedia Telkomsel - https://www.telkomsel.com/paket-ilmupedia).
+
+
+## [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-23)
+
+### Aktivitas
+
+- Persiapan dan penyajian materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
+- Persiapan dan penyajian materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
+
+### Dokumen:
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-23)
+
+
+## [Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/2020-03-24)
+
+### Aktivitas
+
+- Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus seluruh dunia (sumber data JHU/John Hopkins University dan dipublished di https://github.com/CSSEGISandData/COVID-19)
+
+
 <!--
 
 # TODO: Penambahan fitur menyimpan results dalam csv file dan menyimpan konfigurasi simulasi dalam file teks
@@ -291,4 +337,9 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
 * [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
 * [ ] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
 * [ ] Menyimpan konfigurasi simulasi dalam file tersendiri
+* [X] RPS Update - DSP \[DONE\]
+* [ ] RPS Update - Calculus 2
+* [ ] RPS Update - Discrete Mathematics
+* [ ] RPS Update - Wireless Communications
+
 
