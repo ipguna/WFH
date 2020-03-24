@@ -15,8 +15,8 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
     - [Day 07 : 2020-03-22 (Sun)](#day-07--2020-03-22-sun)
 
 - Week 2
-    - [Day 08 : 2020-03-23 (Mon)](#day-01--2020-03-23-mon)
-    - [Day 09 : 2020-03-24 (Tue)](#day-01--2020-03-24-tue)
+    - [Day 08 : 2020-03-23 (Mon)](#day-08--2020-03-23-mon)
+    - [Day 09 : 2020-03-24 (Tue)](#day-09--2020-03-24-tue)
 
 
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-16)
@@ -308,6 +308,8 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 
 
 ## [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-23)
+
+
 
 ### Aktivitas
 
