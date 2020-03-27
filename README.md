@@ -418,13 +418,13 @@ Tampilan proses editing halaman e-learning pada website:
 - Persiapan dan penyajian materi perkuliahan Komunikasi Nirkabel (jadwal reguler 10.00-12.40)
 
 
-## Day 12 : 2020-03-27 (Fri)
+## [Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)
 
 ### Aktivitas
 
 - Pembuatan laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
 
-#### Laman sosialisasi corona virus
+### Laman sosialisasi corona virus
 
 Laman sosialisasi pandemic corona virus bisa diakses di
 > https://sites.google.com/view/ubipguna/cv19
