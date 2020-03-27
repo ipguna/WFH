@@ -17,9 +17,12 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Week 2
     - [Day 08 : 2020-03-23 (Mon)](#day-08--2020-03-23-mon)
     - [Day 09 : 2020-03-24 (Tue)](#day-09--2020-03-24-tue)
+    - [Day 10 : 2020-03-25 (Wed)](#day-10--2020-03-25-wed)
+    - [Day 11 : 2020-03-26 (Thu)](#day-11--2020-03-26-thu)
+    - [Day 12 : 2020-03-27 (Fri)](#day-12--2020-03-27-fri)
 
 
-## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-16)
+## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
 ### Aktivitas
 
@@ -29,7 +32,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 
 ### Dokumen: 
 
-- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-16)
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
 ### Persiapan materi perkuliahan
 
@@ -38,7 +41,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Setting up chat online dan forum diskusi pada Moodle di BIG 2.0.
 
 
-## [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/2020-03-17)
+## [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
 
 ### Aktivitas
 
@@ -73,10 +76,10 @@ Contoh panduan platform non-BIG 2.0:
 
 ### Dokumen
 
-- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-17)
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
 
 
-## [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/2020-03-18)
+## [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
 ### Aktivitas
 
@@ -93,10 +96,10 @@ Contoh panduan platform non-BIG 2.0:
 
 ### Dokumen
 
-- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-18)
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
 
-## [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/2020-03-19)
+## [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
 
 ### Aktivitas
 
@@ -109,12 +112,12 @@ Contoh panduan platform non-BIG 2.0:
 
 ### Dokumen
 
-- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-19)
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
 
 
 
 
-## [Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/2020-03-20)
+## [Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)
 
 ### Aktivitas
 
@@ -237,7 +240,7 @@ berikutnya.
 
 
 
-## [Day 06 : 2020-03-21 (Sat)](https://github.com/ipguna/WFH/tree/master/2020-03-21)
+## [Day 06 : 2020-03-21 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-03-21)
 
 ### Aktivitas
 
@@ -286,7 +289,7 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
     filename = basename + timestampStr + filetype
 
 
-## [Day 07 : 2020-03-22 (Sun)](https://github.com/ipguna/WFH/tree/master/2020-03-22)
+## [Day 07 : 2020-03-22 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-03-22)
 
 ### Aktivitas
 
@@ -307,7 +310,7 @@ Yang cukup menarik adalah platform e-learning yang digunakan oleh UAD karena men
 Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pada saat ini bebas biaya dengan kuota 30 GB (Layanan Bebas Akses Ilmupedia Telkomsel - https://www.telkomsel.com/paket-ilmupedia).
 
 
-## [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/2020-03-23)
+## [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
 
 
@@ -318,15 +321,110 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 
 ### Dokumen:
 
-- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/2020-03-23)
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
+<!-- --------------------------------------------------------- -->
 
-## [Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/2020-03-24)
+## [Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)
 
 ### Aktivitas
 
-- Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus seluruh dunia (sumber data JHU/John Hopkins University dan dipublished di https://github.com/CSSEGISandData/COVID-19)
+- Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus seluruh dunia (sumber data JHU/John Hopkins University dan diambil dari https://github.com/CSSEGISandData/COVID-19)
 
+
+<!-- --------------------------------------------------------- -->
+
+## [Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)
+
+Tanggal 25 Maret 2020 adalah hari libur nasional (Hari Raya Nyepi) oleh karena itu jadwal kuliah reguler DSP (Rabu, 07.30-10.00) akan diganti dengan jadwal lain yang akan ditentukan kemudian.
+
+### Aktivitas
+
+- Pembuatan video panduan perkuliahan secara daring untuk dosen
+- Pembuatan video panduan pengisian tugas/quiz/exam secara daring untuk mahasiswa
+- Pembuatan website mengunakan fasilitas Google sites yang nantinya bisa digunakan sebagai portal media diseminasi informasi yang terkait dengan bimbingan, perkuliahan, dan sebagainya
+
+#### Video panduan
+
+Untuk dosen:
+- Materials Preparation
+- Questions Types for Quiz/Exam
+- Create Online Quiz/Exam
+- Edit Online Quiz/Exam
+
+Untuk dosen dan mahasiswa:
+- How to Answer Quiz/Exam
+
+Semua video panduan ini bisa diakses secara streaming melalui YouTube channel (lihat di [bawah](#pembuatan-video-panduan)). Daftar video panduan juga disimpan dalam portal [website](#website) yang baru dibuat (menggunakan fasilitas Google sites).
+
+#### Pembuatan Video panduan
+
+Pembuatan video panduan menggunakan metode screen capturing yang kemudian diedit menggunakan `Final Cut Pro`. Proses editing melibatkan penambahan anotasi dan ilustrasi musik. Selanjutnya, video yang sudah selesai diupload ke YouTube channel.
+
+Proses editing lanjutan bisa dilakukan pada `YouTube Studio`; misalnya, penambahan localized blur pada sebagian area video yang dianggap sensitif.
+
+![YouTube Studio](log/2020-03-25/YT_Studio.png "YouTube Studio")
+
+Video panduan diupload ke YouTube channel
+
+> [https://www.youtube.com/channel/UCs9gXUFopoPrUWMLCdXD9FQ](https://www.youtube.com/channel/UCs9gXUFopoPrUWMLCdXD9FQ)
+
+![YouTube Channel](log/2020-03-25/YT_Channel.png "YouTube Channel")
+
+dan disimpan ke dalam playlist 'E-Learning'
+
+> https://www.youtube.com/playlist?list=PLLzrb-0ugMMyZ3sX_60_-LEhzLNUQL_I3
+
+![YouTube Playlist](log/2020-03-25/YT_Playlist_Elearning.png "YouTube Playlist")
+
+Semua video panduan ini diset sebagai `private video` sehingga tidak akan tercantum pada laman YouTube; hanya user yang memiliki link-nya yang dapat mengakses video-video ini.
+
+#### Website
+
+Pembuatan website yang bisa digunakan sebagai portal media diseminasi informasi yang terkait dengan bimbingan, perkuliahan, penelitian, dan sebagainya. Link website:
+
+> https://sites.google.com/view/ubipguna/
+
+![Website page main](log/2020-03-25/mobile_main.jpeg "Website Main page mobile view")
+![Website page main](log/2020-03-25/web_page_main.png "Website Main page")
+![Website page elearning](log/2020-03-25/mobile_elearning.jpeg "Website elearning page mobile view")
+
+
+Tampilan proses editing website pada halaman utama:
+
+![Website editing main](log/2020-03-25/web_edit_main.png "Website Editing Main page")
+
+Daftar video panduan bisa diakses melalui laman
+>https://sites.google.com/view/ubipguna/e-learning
+
+![](log/2020-03-25/web_page_elearning01.png "Website elearning page")
+![](log/2020-03-25/web_page_elearning02.png "Website elearning page")
+
+Tampilan proses editing halaman e-learning pada website:
+
+![](log/2020-03-25/web_edit_elearning01.png "Website elearning page")
+![](log/2020-03-25/web_edit_elearning02.png "Website elearning page")
+
+
+
+
+<!-- --------------------------------------------------------- -->
+
+## [Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)
+
+### Aktivitas
+
+- Persiapan dan penyajian materi perkuliahan Komunikasi Nirkabel (jadwal reguler 10.00-12.40)
+- Laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
+
+#### Laman sosialisasi corona virus
+
+Laman sosialisasi pandemic corona virus bisa diakses di
+> https://sites.google.com/view/ubipguna/cv19
+
+Tampilan:
+
+![](log/2020-03-26/cv19socialiation.png "Sosialisasi CV19")
 
 <!--
 
@@ -340,11 +438,11 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 # Todo List
 * [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
 * [ ] Simulasi menggunakan data worlwide
-* [ ] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
-* [ ] Menyimpan konfigurasi simulasi dalam file tersendiri
+* [x] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
+* [x] Menyimpan konfigurasi simulasi dalam file tersendiri
 * [X] RPS Update - DSP \[DONE\]
-* [x] RPS Update - Calculus 2
-* [ ] RPS Update - Discrete Mathematics
+* [x] RPS Update - Calculus 2 \[REVISED\]
+* [ ] RPS Update - Discrete Mathematics \[IN PROGRESS\]
 * [ ] RPS Update - Wireless Communications
 
 
