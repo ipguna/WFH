@@ -423,6 +423,7 @@ Tampilan proses editing halaman e-learning pada website:
 ### Aktivitas
 
 - Pembuatan laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
+- Lanjutan penelitian HDR
 
 ### Laman sosialisasi corona virus
 
@@ -431,7 +432,7 @@ Laman sosialisasi pandemic corona virus bisa diakses di
 
 Tampilan:
 
-![](log/2020-03-26/cv19socialiation.png "Sosialisasi CV19")
+![](log/2020-03-27/cv19literate.png "Sosialisasi CV19")
 
 
 
