@@ -238,9 +238,9 @@ matematik yang sudah ada sebelumnya. Oleh karena itu, untuk sementara waktu
 metode / **Cara 2** inilah yang akan dilakukan untuk simulasi-simulasi
 berikutnya.
 
+<!-- --------------------------------------------------------- -->
 
-
-## [Day 06 : 2020-03-21 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-03-21)
+## Day 06 : 2020-03-21 (Sat)
 
 ### Aktivitas
 
@@ -288,8 +288,9 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
     filetype = '.csv'
     filename = basename + timestampStr + filetype
 
+<!-- --------------------------------------------------------- -->
 
-## [Day 07 : 2020-03-22 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-03-22)
+## Day 07 : 2020-03-22 (Sun)
 
 ### Aktivitas
 
@@ -415,7 +416,13 @@ Tampilan proses editing halaman e-learning pada website:
 ### Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan Komunikasi Nirkabel (jadwal reguler 10.00-12.40)
-- Laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
+
+
+## Day 12 : 2020-03-27 (Fri)
+
+### Aktivitas
+
+- Pembuatan laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
 
 #### Laman sosialisasi corona virus
 
@@ -425,6 +432,8 @@ Laman sosialisasi pandemic corona virus bisa diakses di
 Tampilan:
 
 ![](log/2020-03-26/cv19socialiation.png "Sosialisasi CV19")
+
+
 
 <!--
 
