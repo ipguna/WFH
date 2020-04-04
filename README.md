@@ -513,6 +513,10 @@ Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi databa
 
     Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
 
+### Dokumen:
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
+
 
 <!--
 
