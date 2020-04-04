@@ -21,6 +21,13 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
     - [Day 11 : 2020-03-26 (Thu)](#day-11--2020-03-26-thu)
     - [Day 12 : 2020-03-27 (Fri)](#day-12--2020-03-27-fri)
 
+- Week 3
+    - [Day 15 : 2020-03-30 (Mon)](#day-15--2020-03-30-mon)
+    - [Day 16 : 2020-03-31 (Tue)](#day-16--2020-03-31-tue)
+    - [Day 17 : 2020-04-01 (Wed)](#day-17--2020-04-01-wed)
+    - [Day 18 : 2020-04-02 (Thu)](#day-18--2020-04-02-thu)
+    - [Day 19 : 2020-04-03 (Fri)](#day-19--2020-04-03-fri)
+
 
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
@@ -436,9 +443,70 @@ Tampilan:
 
 
 
+## [Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
+
+
+
+### Aktivitas
+
+- Persiapan dan penyajian materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
+- Persiapan dan penyajian materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
+
+### Dokumen:
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
+
+<!-- --------------------------------------------------------- -->
+
+## [Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)
+
+### Aktivitas
+
+- Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus Indonesia yang dibandingkan dengan negara-negara ASEAN menggunakan sumber data JHU/John Hopkins University (https://github.com/CSSEGISandData/COVID-19)
+
+
+<!-- --------------------------------------------------------- -->
+
+## [Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)
+
+### Aktivitas
+
+- Persiapan dan penyajian materi perkuliahan DSP dengan topik simulasi discrete time signal manipulation menggunakan python.
+
+
+## [Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)
+
+### Aktivitas
+
+- Persiapan dan penyajian materi perkuliahan Wireless Communications dengan topik simulasi Direct Sequence Spread Spectrum menggunakan python.
+
+
+## [Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
+
+### Aktivitas
+
+- Pembuatan form survey bagi mahasiswa bimbingan PA untuk pemutakhiran data dan pengecekan kondisi terakhir masing-masing. Form survey bisa diakses secara online melalui
+    >  https://sites.google.com/view/ubipguna/cv19/academic-supervision
+
+- Pembuatan online tools log data entry untuk mencatat pekerjaan harian yang dilakukan selama WFH. Pencatatan bisa dilakukan melalui
+    >   https://sites.google.com/view/ubipguna/cv19/wfh-entry?
+
+- Versi offline dari tools pencatatan entry pekerjaan ini juga dibuat dengan menggunakan aplikasi database berbasis OpenOffice; tujuan dari pembuatan aplikasi database berbasis OpenOffice ini adalah agar proses pembuatan report automatis bisa dilakukan relatif lebih mudah.
+
+- Ikut berpartisipasi sebagai peserta/audience dalam Seminar On-line yang diadakan oleh LPkM UB dengan tema "Literasi Corvid-19" melalui aplikasi zoom.
+
+
+### Dokumen:
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
+
+### Aplikasi Database berbasis OpenOffice
+
+Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
+
 <!--
 
-# TODO: Penambahan fitur menyimpan results dalam csv file dan menyimpan konfigurasi simulasi dalam file teks
+# TODO: Penambahan fitur menyimpan konfigurasi simulasi dalam file teks
 
 # TODO: Updata data global https://github.com/CSSEGISandData/COVID-19
 
@@ -447,12 +515,24 @@ Tampilan:
 
 # Todo List
 * [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
-* [ ] Simulasi menggunakan data worlwide
+* [x] Analisis data menggunakan data worlwide JHU
 * [x] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
 * [x] Menyimpan konfigurasi simulasi dalam file tersendiri
 * [X] RPS Update - DSP \[DONE\]
 * [x] RPS Update - Calculus 2 \[REVISED\]
-* [ ] RPS Update - Discrete Mathematics \[IN PROGRESS\]
+* [x] RPS Update - Discrete Mathematics \[REVISED\]
 * [ ] RPS Update - Wireless Communications
 
+
+# RESOURCES
+
+- https://github.com/bnsreenu/python_for_microscopists
+
+    Python for Microscopists and other image processing enthusiasts from basics to advanced machine learning and deep learning with  primary emphasis on image processing and other relevant functionality.
+
+- https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1
+
+    YouTube channel associated with the above websites.
+
+    
 
