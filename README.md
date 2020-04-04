@@ -27,7 +27,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
     - [Day 17 : 2020-04-01 (Wed)](#day-17--2020-04-01-wed)
     - [Day 18 : 2020-04-02 (Thu)](#day-18--2020-04-02-thu)
     - [Day 19 : 2020-04-03 (Fri)](#day-19--2020-04-03-fri)
-
+    - [Day 20 : 2020-04-04 (Sat)](#day-20--2020-04-04-sat)
 
 ## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
@@ -37,7 +37,7 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Persiapan materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 - Penulisan [dokumen panduan](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf) perkuliahan secara daring untuk mahasiswa
 
-### Dokumen: 
+### Dokumen:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
@@ -65,15 +65,15 @@ Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to 
 - Alternatif penempatan page petunjuk
     + https://bakrie.ac.id/jakun
     + https://www.bakrie.ac.id/en/online-class-preparation/
-    + https://www.bakrie.ac.id/en/bti/online-class-preparation/ 
+    + https://www.bakrie.ac.id/en/bti/online-class-preparation/
 
 - Saran _to do list_ update [dokumen panduan perkuliahan daring](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf)
 
-    + Petunjuk cara student menjawab/mensubmit hasil kerjaan/jawaban/tugas mahasiswa. 
+    + Petunjuk cara student menjawab/mensubmit hasil kerjaan/jawaban/tugas mahasiswa.
     + Petunjuk untuk membuat materi online berbasis ‘Lesson’ pada moodle yang seharusnya menjadi prioritas utama utk dosen tetap UB dengan pertimbangan bahwa kemampuan fasilitas/tools di BIG 2.0 sebenarnya lebih dari cukup untuk kebutuhan online course saat ini. Hanya tinggal bagaimana cara kita bisa memanfaatkannya saja
-    + Tambahan: panduan set up _online learning course_ di platform lain selain BIG 2.0 (spt Google classroom, webex, dsb), terutama jika misalnya dosen akan mengadakan kelas berbasis conference (Skenario 3 - Advanced). 
+    + Tambahan: panduan set up _online learning course_ di platform lain selain BIG 2.0 (spt Google classroom, webex, dsb), terutama jika misalnya dosen akan mengadakan kelas berbasis conference (Skenario 3 - Advanced).
 
-Contoh panduan platform non-BIG 2.0: 
+Contoh panduan platform non-BIG 2.0:
 
 - Panduan membuat materi via Webex: https://drive.google.com/file/d/1A3TbXG4MNXbNhMIHS9eyXxGLWcDP2o7l/view?usp=sharing
 - Panduan conference menggunakan Jitsi Meet:  https://www.youtube.com/watch?v=6pJRWI9eZgo
@@ -94,7 +94,7 @@ Contoh panduan platform non-BIG 2.0:
 - Explorasi - simulasi penyebaran pasien nCovid-19 menggunakan python
 
     Source code dan hasil simulasi bisa dilihat pada https://github.com/ipguna/CV19
-    
+
     Explorasi simulasi ini dilakukan karena berdasarkan rujukan paper yang digunakan \[1\], model matematika penyebaran kasus nCovid-19 ini merupakan solusi dari persamaan diferensial orde pertama. Akan dilihat apakah persamaan matematika pada kasus ini bisa diterapkan untuk materi kuliah Kalkulus 2.
 
     Referensi:
@@ -503,6 +503,16 @@ Tampilan:
 ### Aplikasi Database berbasis OpenOffice
 
 Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
+
+
+## [Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
+
+### Aktivitas
+
+- Aplikasi Database berbasis OpenOffice (WARRM = Wfh Activities Recording, Reporting, and Monitoring)
+
+    Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
+
 
 <!--
 
