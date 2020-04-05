@@ -1,6 +1,16 @@
 # WFH
 Daily activities log during WFH period.
 
+## WFH Report - Official
+
+Submission period
+
+- Week of 20200405: Read the report here
+
+
+
+## Detailed log
+
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
 ### Table of contents:
