@@ -3,13 +3,14 @@ Daily activities log during WFH period.
 
 ## WFH Report - Official
 
-Submission period
+Reports are updated/uploaded on each submission period:
 
-- Week of 20200405: Read the report here
-
+- Week of 20200405: Read/download the report [here](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200405.pdf)
 
 
 ## Detailed log
+
+Versi detail dari laporan mingguan/harian tapi unofficial bisa dibaca di halaman ini. Halaman ini menyediakan lebih lengkap detil dokumentasi pendukung serta deskripsi pekerjaan.
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
@@ -510,9 +511,6 @@ Tampilan:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
 
-### Aplikasi Database berbasis OpenOffice
-
-Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
 
 
 ## [Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
