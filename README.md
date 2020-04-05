@@ -10,7 +10,7 @@ Reports are updated/uploaded on each submission period:
 
 ## Detailed log
 
-Versi detail dari laporan mingguan/harian tapi unofficial bisa dibaca di halaman ini. Halaman ini menyediakan lebih lengkap detil dokumentasi pendukung serta deskripsi pekerjaan.
+Versi detail dari laporan mingguan/harian tapi bersifat _unofficial_ dan _unstructured_ bisa dibaca di halaman ini. Halaman ini menyediakan lebih lengkap detil dokumentasi pendukung serta deskripsi pekerjaan.
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
