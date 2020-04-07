@@ -1,5 +1,78 @@
+
+
 # WFH
 Daily activities log during WFH period.
+
+--------------------------------------------------------
+
+- [WFH](#wfh)
+  * [WFH Report - Official](#wfh-report---official)
+  * [Detailed log](#detailed-log)
+    + [Table of contents:](#table-of-contents-)
+  * [[Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)](#-day-01---2020-03-16--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-16-)
+    + [Aktivitas](#aktivitas)
+    + [Dokumen:](#dokumen-)
+    + [Persiapan materi perkuliahan](#persiapan-materi-perkuliahan)
+  * [[Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)](#-day-02---2020-03-17--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-17-)
+    + [Aktivitas](#aktivitas-1)
+    + [Komunikasi](#komunikasi)
+    + [Dokumen](#dokumen)
+  * [[Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)](#-day-03---2020-03-18--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-03-18-)
+    + [Aktivitas](#aktivitas-2)
+    + [Dokumen](#dokumen-1)
+  * [[Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)](#-day-04---2020-03-19--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-03-19-)
+    + [Aktivitas](#aktivitas-3)
+    + [Dokumen](#dokumen-2)
+  * [[Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)](#-day-05---2020-03-20--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-03-20-)
+    + [Aktivitas](#aktivitas-4)
+    + [Parsing data mentah dari Google spreadsheet](#parsing-data-mentah-dari-google-spreadsheet)
+    + [Integrasi data untuk simulasi](#integrasi-data-untuk-simulasi)
+      - [Metode](#metode)
+      - [Hasil Pengetesan Integrasi Data](#hasil-pengetesan-integrasi-data)
+  * [Day 06 : 2020-03-21 (Sat)](#day-06---2020-03-21--sat-)
+    + [Aktivitas](#aktivitas-5)
+    + [Penambahan timestamp](#penambahan-timestamp)
+  * [Day 07 : 2020-03-22 (Sun)](#day-07---2020-03-22--sun-)
+    + [Aktivitas](#aktivitas-6)
+    + [E-learning kampus](#e-learning-kampus)
+  * [[Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)](#-day-08---2020-03-23--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-23-)
+    + [Aktivitas](#aktivitas-7)
+    + [Dokumen:](#dokumen--1)
+  * [[Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)](#-day-09---2020-03-24--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-24-)
+    + [Aktivitas](#aktivitas-8)
+  * [[Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)](#-day-10---2020-03-25--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-03-25-)
+    + [Aktivitas](#aktivitas-9)
+      - [Video panduan](#video-panduan)
+      - [Pembuatan Video panduan](#pembuatan-video-panduan)
+      - [Website](#website)
+  * [[Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)](#-day-11---2020-03-26--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-03-26-)
+    + [Aktivitas](#aktivitas-10)
+  * [[Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)](#-day-12---2020-03-27--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-03-27-)
+    + [Aktivitas](#aktivitas-11)
+    + [Laman sosialisasi corona virus](#laman-sosialisasi-corona-virus)
+  * [[Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)](#-day-15---2020-03-30--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-30-)
+    + [Aktivitas](#aktivitas-12)
+    + [Dokumen:](#dokumen--2)
+  * [[Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)](#-day-16---2020-03-31--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-31-)
+    + [Aktivitas](#aktivitas-13)
+  * [[Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)](#-day-17---2020-04-01--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-04-01-)
+    + [Aktivitas](#aktivitas-14)
+  * [[Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)](#-day-18---2020-04-02--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-04-02-)
+    + [Aktivitas](#aktivitas-15)
+  * [[Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)](#-day-19---2020-04-03--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-04-03-)
+    + [Aktivitas](#aktivitas-16)
+    + [Dokumen:](#dokumen--3)
+  * [[Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)](#-day-20---2020-04-04--sat---https---githubcom-ipguna-wfh-tree-master-log-2020-04-04-)
+    + [Aktivitas](#aktivitas-17)
+    + [Dokumen:](#dokumen--4)
+  * [[Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)](#-day-21---2020-04-05--sun---https---githubcom-ipguna-wfh-tree-master-log-2020-04-05-)
+    + [Aktivitas](#aktivitas-18)
+  * [[Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)](#-day-22---2020-04-06--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-04-06-)
+    + [Aktivitas](#aktivitas-19)
+    + [Notes](#notes)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## WFH Report - Official
 
@@ -526,11 +599,97 @@ Tampilan:
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
 
 
+## [Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)
+
+### Aktivitas
+
+- Persiapan Laporan Mingguan WFH dengan format F-SDM-55
+
+- Submit Laporan mingguan
+
+- Perkuliahan - Calculus 2: persiapan materi ajar (slides, notes, tugas/assignment, dan video lectures)
+
+    * [x] Prepare question
+    * [x] Upload Question to BIG
+    * [x] Prepare Notes
+    * [x] Upload Notes to BIG
+    * [x] Prepare Slides
+    * [x] Upload Slides to BIG
+    * [x] Prepare Lessons activities: video links and their associates questions
+
+
+
+<!--
+# IPG-NOTES: Video link for Calculus (Infinite series) resources
+
+https://www.coursera.org/learn/discrete-calculus/lecture/Epd9A/convergence-tests-ii
+
+>   https://www.coursera.org/lecture/discrete-calculus/infinite-series-48HRf?authMode=signup&redirectTo=%2Flecture%2Fdiscrete-calculus%2Finfinite-series-48HRf
+
+Infinite series:
+
+>   https://d3c33hcgiwev3.cloudfront.net/NKGyMzyPEeWM-wqPLzH4ew.processed/full/360p/index.webm?Expires=1586217600&Signature=a3dJr999lNu7XoxaAKkLXYO33foiTZJCYO9xaAsz6QHlcIFCWapA6ZJTUBngVKUpBV0Je1XlnZO29pBO3V3rIgDIlSwCAp7DSesuDQpugxRSiuP5uXgZEP7xPuDGekTSYdN906X7CeWQC64aX1P8-9ZEepimWdqKyWZL7Lbr-9k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+Convergence Test 1
+
+>   https://d3c33hcgiwev3.cloudfront.net/NKYfBjyPEeWkYw4zx_qqFQ.processed/full/540p/index.webm?Expires=1586217600&Signature=b7NtHYrk0Y66jYOzPV8N61wJqo5HuqTPD2ewx-hmW2mlIaWnGT~eR-4GTXB3t6yWL7h1SGUce77cBQpJJgi3~Lgb5JngPA6Vl32Y0j82i7l1XQblZIRH5uuBjXnCIyjYS0p8wF1kfyS4AF5FRGeBgE8HFvIWcPCOv28iObI8mOE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+-->
+
+
+## [Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)
+
+### Aktivitas
+
+- Perkuliahan - Discrete Math: persiapan materi ajar (slides, notes, tugas/assignment, dan video lectures)
+
+    * [x] Prepare question
+    * [x] Upload Question to BIG
+    * [ ] Prepare Notes
+    * [ ] Upload Notes to BIG
+    * [x] Prepare Slides
+    * [x] Upload Slides to BIG
+    * [x] Prepare Lessons activities
+    * [x] Prepare video links and their associates questions
+
+### Notes
+
+- Change the default location of screenshots in Mavericks
+
+        >>  defaults write com.apple.screencapture location [FOLDER]
+
+        >>  killall SystemUIServer
+
+        >>  defaults write com.apple.screencapture type [ jpg | pdf | tiff | gif ]
+
+
+
+<!--
+# IPG-NOTES: COURSERA subscription for Discrete Math
+https://www.coursera.org/learn/discrete-mathematics/home/welcome
+
+ -->
+
+
+
+
+
+----------------------------------
+
+
 <!--
 
 # TODO: Penambahan fitur menyimpan konfigurasi simulasi dalam file teks
 
-# TODO: Updata data global https://github.com/CSSEGISandData/COVID-19
+# DONE: Update data global https://github.com/CSSEGISandData/COVID-19
+
+# TODO: Use template codes in pycharm
+
+# TODO: Change table definition (add more fields) to accomodate new report on OOBase
+
+# TODO: Modify report definition on ooBase
+
+# TODO: Data analysis on Moodle's log
 
  -->
 
@@ -544,6 +703,19 @@ Tampilan:
 * [x] RPS Update - Calculus 2 \[REVISED\]
 * [x] RPS Update - Discrete Mathematics \[REVISED\]
 * [ ] RPS Update - Wireless Communications
+* [ ] Use template codes in pycharm
+* [ ] Change table definition (add more fields) to accomodate new report on OOBase
+* [ ] Modify report definition on ooBase
+* [ ] Data analysis on Moodle's log
+* [ ] MID-EXAM DRAFT: DSP - LaTeX \[ IN-PROGRESS \]
+* [ ] MID-EXAM DRAFT: Discrete Math - LaTeX \[ IN-PROGRESS \]
+* [ ] MID-EXAM DRAFT: Calculus 2 - LaTeX \[ IN-PROGRESS \]
+* [ ] MID-EXAM DRAFT: Wireless Communications - LaTeX \[ IN-PROGRESS \]
+* [ ] MID-EXAM DRAFT: DSP - Moodle
+* [ ] MID-EXAM DRAFT: Discrete Math - Moodle
+* [ ] MID-EXAM DRAFT: Calculus 2 - Moodle
+* [ ] MID-EXAM DRAFT: Wireless Communications - Moodle
+
 
 
 # RESOURCES
@@ -557,4 +729,16 @@ Tampilan:
     YouTube channel associated with the above websites.
 
     
+- https://www.mathway.com/Calculus
 
+- https://www.lth.se/fileadmin/lth/genombrottet/konferens2018/F3_Olsen.pdf
+
+- http://calclab.math.tamu.edu/Python/FULLPythonDocumentation152.html
+
+- https://www.laptopmag.com/articles/change-macs-default-screenshot-directory
+
+- https://www.hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac
+
+    > defaults write com.apple.screencapture location [FOLDER]
+
+    > defaults write com.apple.screencapture location ~/Desktop
