@@ -10,7 +10,7 @@ WFH
 - [WFH](#wfh-1)
   * [WFH Report - Official](#wfh-report---official)
   * [Detailed log](#detailed-log)
-- [Day 01 (2020-03-16 Mon)](#day-01--2020-03-16-mon-)
+- [Day 01 2020-03-16 Mon](#day-01-2020-03-16-mon)
   * [Aktivitas](#aktivitas)
   * [Dokumentasi](#dokumentasi)
   * [Persiapan materi perkuliahan](#persiapan-materi-perkuliahan)
