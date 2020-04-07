@@ -1,14 +1,15 @@
+WFH
+=================
 
+***WFH Documentation***
 
-# WFH
-Daily activities log during WFH period.
+**Author:** *Irwan Prasetya Gunawan*
 
---------------------------------------------------------
 
 - [WFH](#wfh)
+- [WFH](#wfh-1)
   * [WFH Report - Official](#wfh-report---official)
   * [Detailed log](#detailed-log)
-    + [Contents:](#contents-)
 - [Day 01 : 2020-03-16 (Mon)](#day-01---2020-03-16--mon-)
   * [Aktivitas](#aktivitas)
   * [Dokumentasi](#dokumentasi)
@@ -67,12 +68,16 @@ Daily activities log during WFH period.
   * [Dokumentasi:](#dokumentasi--3)
 - [Day 21 : 2020-04-05 (Sun)](#day-21---2020-04-05--sun-)
   * [Aktivitas](#aktivitas-18)
-- [IPG-NOTES: Video link for Calculus (Infinite series) resources](#ipg-notes--video-link-for-calculus--infinite-series--resources)
 - [Day 22 : 2020-04-06 (Mon)](#day-22---2020-04-06--mon-)
   * [Aktivitas](#aktivitas-19)
     + [Notes](#notes)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+# WFH
+Daily activities log during WFH period.
+
 
 
 
@@ -89,31 +94,6 @@ Versi detail dari laporan mingguan/harian tapi bersifat _unofficial_ dan _unstru
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
-### Contents:
-
-- Week 1
-    - [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
-    - [Day 02 : 2020-03-17 (Tue)](#day-02--2020-03-17-tue)
-    - [Day 03 : 2020-03-18 (Wed)](#day-03--2020-03-18-wed)
-    - [Day 04 : 2020-03-19 (Thu)](#day-04--2020-03-19-thu)
-    - [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)
-    - [Day 06 : 2020-03-21 (Sat)](#day-06--2020-03-21-sat)
-    - [Day 07 : 2020-03-22 (Sun)](#day-07--2020-03-22-sun)
-
-- Week 2
-    - [Day 08 : 2020-03-23 (Mon)](#day-08--2020-03-23-mon)
-    - [Day 09 : 2020-03-24 (Tue)](#day-09--2020-03-24-tue)
-    - [Day 10 : 2020-03-25 (Wed)](#day-10--2020-03-25-wed)
-    - [Day 11 : 2020-03-26 (Thu)](#day-11--2020-03-26-thu)
-    - [Day 12 : 2020-03-27 (Fri)](#day-12--2020-03-27-fri)
-
-- Week 3
-    - [Day 15 : 2020-03-30 (Mon)](#day-15--2020-03-30-mon)
-    - [Day 16 : 2020-03-31 (Tue)](#day-16--2020-03-31-tue)
-    - [Day 17 : 2020-04-01 (Wed)](#day-17--2020-04-01-wed)
-    - [Day 18 : 2020-04-02 (Thu)](#day-18--2020-04-02-thu)
-    - [Day 19 : 2020-04-03 (Fri)](#day-19--2020-04-03-fri)
-    - [Day 20 : 2020-04-04 (Sat)](#day-20--2020-04-04-sat)
 
 # Day 01 : 2020-03-16 (Mon)
 
@@ -654,22 +634,6 @@ Tampilan:
 
 
 
-<!--
-# IPG-NOTES: Video link for Calculus (Infinite series) resources
-
-https://www.coursera.org/learn/discrete-calculus/lecture/Epd9A/convergence-tests-ii
-
->   https://www.coursera.org/lecture/discrete-calculus/infinite-series-48HRf?authMode=signup&redirectTo=%2Flecture%2Fdiscrete-calculus%2Finfinite-series-48HRf
-
-Infinite series:
-
->   https://d3c33hcgiwev3.cloudfront.net/NKGyMzyPEeWM-wqPLzH4ew.processed/full/360p/index.webm?Expires=1586217600&Signature=a3dJr999lNu7XoxaAKkLXYO33foiTZJCYO9xaAsz6QHlcIFCWapA6ZJTUBngVKUpBV0Je1XlnZO29pBO3V3rIgDIlSwCAp7DSesuDQpugxRSiuP5uXgZEP7xPuDGekTSYdN906X7CeWQC64aX1P8-9ZEepimWdqKyWZL7Lbr-9k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-
-Convergence Test 1
-
->   https://d3c33hcgiwev3.cloudfront.net/NKYfBjyPEeWkYw4zx_qqFQ.processed/full/540p/index.webm?Expires=1586217600&Signature=b7NtHYrk0Y66jYOzPV8N61wJqo5HuqTPD2ewx-hmW2mlIaWnGT~eR-4GTXB3t6yWL7h1SGUce77cBQpJJgi3~Lgb5JngPA6Vl32Y0j82i7l1XQblZIRH5uuBjXnCIyjYS0p8wF1kfyS4AF5FRGeBgE8HFvIWcPCOv28iObI8mOE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-
--->
 
 
 # Day 22 : 2020-04-06 (Mon)
@@ -706,6 +670,23 @@ Convergence Test 1
 https://www.coursera.org/learn/discrete-mathematics/home/welcome
 
  -->
+
+<!--
+# IPG-NOTES: Video link for Calculus (Infinite series) resources
+
+https://www.coursera.org/learn/discrete-calculus/lecture/Epd9A/convergence-tests-ii
+
+>   https://www.coursera.org/lecture/discrete-calculus/infinite-series-48HRf?authMode=signup&redirectTo=%2Flecture%2Fdiscrete-calculus%2Finfinite-series-48HRf
+
+Infinite series:
+
+>   https://d3c33hcgiwev3.cloudfront.net/NKGyMzyPEeWM-wqPLzH4ew.processed/full/360p/index.webm?Expires=1586217600&Signature=a3dJr999lNu7XoxaAKkLXYO33foiTZJCYO9xaAsz6QHlcIFCWapA6ZJTUBngVKUpBV0Je1XlnZO29pBO3V3rIgDIlSwCAp7DSesuDQpugxRSiuP5uXgZEP7xPuDGekTSYdN906X7CeWQC64aX1P8-9ZEepimWdqKyWZL7Lbr-9k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+Convergence Test 1
+
+>   https://d3c33hcgiwev3.cloudfront.net/NKYfBjyPEeWkYw4zx_qqFQ.processed/full/540p/index.webm?Expires=1586217600&Signature=b7NtHYrk0Y66jYOzPV8N61wJqo5HuqTPD2ewx-hmW2mlIaWnGT~eR-4GTXB3t6yWL7h1SGUce77cBQpJJgi3~Lgb5JngPA6Vl32Y0j82i7l1XQblZIRH5uuBjXnCIyjYS0p8wF1kfyS4AF5FRGeBgE8HFvIWcPCOv28iObI8mOE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+-->
 
 
 
