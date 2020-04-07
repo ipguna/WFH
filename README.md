@@ -5,79 +5,75 @@ WFH
 
 **Author:** *Irwan Prasetya Gunawan*
 
+Daily activities log during WFH period.
+
 
 - [WFH](#wfh)
-- [WFH](#wfh-1)
   * [WFH Report - Official](#wfh-report---official)
   * [Detailed log](#detailed-log)
 - [Day 01 2020-03-16 Mon](#day-01-2020-03-16-mon)
   * [Aktivitas](#aktivitas)
   * [Dokumentasi](#dokumentasi)
   * [Persiapan materi perkuliahan](#persiapan-materi-perkuliahan)
-- [Day 02 : 2020-03-17 (Tue)](#day-02---2020-03-17--tue-)
+- [Day 02 2020-03-17  Tue](#day-02-2020-03-17--tue)
   * [Aktivitas](#aktivitas-1)
   * [Komunikasi](#komunikasi)
   * [Dokumentasi](#dokumentasi-1)
-- [Day 03 : 2020-03-18 (Wed)](#day-03---2020-03-18--wed-)
+- [Day 03 2020-03-18  Wed](#day-03-2020-03-18--wed)
   * [Aktivitas](#aktivitas-2)
     + [Dokumen](#dokumen)
-- [Day 04 : 2020-03-19 (Thu)](#day-04---2020-03-19--thu-)
+- [Day 04 2020-03-19  Thu](#day-04-2020-03-19--thu)
   * [Aktivitas](#aktivitas-3)
   * [Dokumen](#dokumen-1)
-- [Day 05 : 2020-03-20 (Fri)](#day-05---2020-03-20--fri-)
+- [Day 05 2020-03-20  Fri](#day-05-2020-03-20--fri)
   * [Aktivitas](#aktivitas-4)
     + [Parsing data mentah dari Google spreadsheet](#parsing-data-mentah-dari-google-spreadsheet)
     + [Integrasi data untuk simulasi](#integrasi-data-untuk-simulasi)
       - [Metode](#metode)
       - [Hasil Pengetesan Integrasi Data](#hasil-pengetesan-integrasi-data)
-- [Day 06 : 2020-03-21 (Sat)](#day-06---2020-03-21--sat-)
+- [Day 06 2020-03-21  Sat](#day-06-2020-03-21--sat)
   * [Aktivitas](#aktivitas-5)
     + [Penambahan timestamp](#penambahan-timestamp)
-- [Day 07 : 2020-03-22 (Sun)](#day-07---2020-03-22--sun-)
+- [Day 07 2020-03-22  Sun](#day-07-2020-03-22--sun)
   * [Aktivitas](#aktivitas-6)
     + [E-learning kampus](#e-learning-kampus)
-- [Day 08 : 2020-03-23 (Mon)](#day-08---2020-03-23--mon-)
+- [Day 08 2020-03-23  Mon](#day-08-2020-03-23--mon)
   * [Aktivitas](#aktivitas-7)
   * [Dokumentasi:](#dokumentasi-)
-- [Day 09 : 2020-03-24 (Tue)](#day-09---2020-03-24--tue-)
+- [Day 09 2020-03-24  Tue](#day-09-2020-03-24--tue)
   * [Aktivitas](#aktivitas-8)
-- [Day 10 : 2020-03-25 (Wed)](#day-10---2020-03-25--wed-)
+- [Day 10 2020-03-25  Wed](#day-10-2020-03-25--wed)
   * [Aktivitas](#aktivitas-9)
       - [Video panduan](#video-panduan)
       - [Pembuatan Video panduan](#pembuatan-video-panduan)
       - [Website](#website)
-- [Day 11 : 2020-03-26 (Thu)](#day-11---2020-03-26--thu-)
+- [Day 11 2020-03-26  Thu](#day-11-2020-03-26--thu)
   * [Aktivitas](#aktivitas-10)
-- [Day 12 : 2020-03-27 (Fri)](#day-12---2020-03-27--fri-)
+- [Day 12 2020-03-27  Fri](#day-12-2020-03-27--fri)
   * [Aktivitas](#aktivitas-11)
     + [Laman sosialisasi corona virus](#laman-sosialisasi-corona-virus)
-- [Day 15 : 2020-03-30 (Mon)](#day-15---2020-03-30--mon-)
+- [Day 15 2020-03-30  Mon](#day-15-2020-03-30--mon)
   * [Aktivitas](#aktivitas-12)
   * [Dokumentasi:](#dokumentasi--1)
-- [Day 16 : 2020-03-31 (Tue)](#day-16---2020-03-31--tue-)
+- [Day 16 2020-03-31  Tue](#day-16-2020-03-31--tue)
   * [Aktivitas](#aktivitas-13)
-- [Day 17 : 2020-04-01 (Wed)](#day-17---2020-04-01--wed-)
+- [Day 17 2020-04-01  Wed](#day-17-2020-04-01--wed)
   * [Aktivitas](#aktivitas-14)
-- [Day 18 : 2020-04-02 (Thu)](#day-18---2020-04-02--thu-)
+- [Day 18 2020-04-02  Thu](#day-18-2020-04-02--thu)
   * [Aktivitas](#aktivitas-15)
-- [Day 19 : 2020-04-03 (Fri)](#day-19---2020-04-03--fri-)
+- [Day 19 2020-04-03  Fri](#day-19-2020-04-03--fri)
   * [Aktivitas](#aktivitas-16)
   * [Dokumentasi:](#dokumentasi--2)
-- [Day 20 : 2020-04-04 (Sat)](#day-20---2020-04-04--sat-)
+- [Day 20 2020-04-04  Sat](#day-20-2020-04-04--sat)
   * [Aktivitas](#aktivitas-17)
   * [Dokumentasi:](#dokumentasi--3)
-- [Day 21 : 2020-04-05 (Sun)](#day-21---2020-04-05--sun-)
+- [Day 21 2020-04-05  Sun](#day-21-2020-04-05--sun)
   * [Aktivitas](#aktivitas-18)
-- [Day 22 : 2020-04-06 (Mon)](#day-22---2020-04-06--mon-)
+- [Day 22 2020-04-06  Mon](#day-22-2020-04-06--mon)
   * [Aktivitas](#aktivitas-19)
     + [Notes](#notes)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-# WFH
-Daily activities log during WFH period.
-
 
 
 
@@ -116,7 +112,9 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
 - Setting up chat online dan forum diskusi pada Moodle di BIG 2.0.
 
 
-# Day 02 : 2020-03-17 (Tue)
+Back to [TOP](#wfh)
+
+# Day 02 2020-03-17  Tue 
 
 [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
 
@@ -155,7 +153,7 @@ Contoh panduan platform non-BIG 2.0:
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
 
 
-# Day 03 : 2020-03-18 (Wed)
+# Day 03 2020-03-18  Wed 
  
  [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
@@ -177,7 +175,7 @@ Contoh panduan platform non-BIG 2.0:
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
 
-# Day 04 : 2020-03-19 (Thu)
+# Day 04 2020-03-19  Thu 
 
 [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
 
@@ -197,7 +195,7 @@ Contoh panduan platform non-BIG 2.0:
 
 
 
-# Day 05 : 2020-03-20 (Fri)
+# Day 05 2020-03-20  Fri 
 
 [Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)
 
@@ -322,7 +320,7 @@ berikutnya.
 
 <!-- --------------------------------------------------------- -->
 
-# Day 06 : 2020-03-21 (Sat)
+# Day 06 2020-03-21  Sat 
 
 ## Aktivitas
 
@@ -372,7 +370,7 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
 
 <!-- --------------------------------------------------------- -->
 
-# Day 07 : 2020-03-22 (Sun)
+# Day 07 2020-03-22  Sun 
 
 ## Aktivitas
 
@@ -393,7 +391,7 @@ Yang cukup menarik adalah platform e-learning yang digunakan oleh UAD karena men
 Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pada saat ini bebas biaya dengan kuota 30 GB (Layanan Bebas Akses Ilmupedia Telkomsel - https://www.telkomsel.com/paket-ilmupedia).
 
 
-# Day 08 : 2020-03-23 (Mon)
+# Day 08 2020-03-23  Mon 
 
 [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
@@ -410,7 +408,7 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 
 <!-- --------------------------------------------------------- -->
 
-# Day 09 : 2020-03-24 (Tue)
+# Day 09 2020-03-24  Tue 
 
 [Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)
 
@@ -421,7 +419,7 @@ Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pa
 
 <!-- --------------------------------------------------------- -->
 
-# Day 10 : 2020-03-25 (Wed)
+# Day 10 2020-03-25  Wed 
 
 [Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)
 
@@ -499,7 +497,7 @@ Tampilan proses editing halaman e-learning pada website:
 
 <!-- --------------------------------------------------------- -->
 
-# Day 11 : 2020-03-26 (Thu)
+# Day 11 2020-03-26  Thu 
 
 [Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)
 
@@ -508,7 +506,7 @@ Tampilan proses editing halaman e-learning pada website:
 - Persiapan dan penyajian materi perkuliahan Komunikasi Nirkabel (jadwal reguler 10.00-12.40)
 
 
-# Day 12 : 2020-03-27 (Fri)
+# Day 12 2020-03-27  Fri 
 
 [Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)
 
@@ -528,7 +526,7 @@ Tampilan:
 
 
 
-# Day 15 : 2020-03-30 (Mon)
+# Day 15 2020-03-30  Mon 
 
 [Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
 
@@ -545,7 +543,7 @@ Tampilan:
 
 <!-- --------------------------------------------------------- -->
 
-# Day 16 : 2020-03-31 (Tue)
+# Day 16 2020-03-31  Tue 
 
 [Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)
 
@@ -556,7 +554,7 @@ Tampilan:
 
 <!-- --------------------------------------------------------- -->
 
-# Day 17 : 2020-04-01 (Wed)
+# Day 17 2020-04-01  Wed 
 
 [Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)
 
@@ -565,7 +563,7 @@ Tampilan:
 - Persiapan dan penyajian materi perkuliahan DSP dengan topik simulasi discrete time signal manipulation menggunakan python.
 
 
-# Day 18 : 2020-04-02 (Thu)
+# Day 18 2020-04-02  Thu 
 
 [Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)
 
@@ -574,7 +572,7 @@ Tampilan:
 - Persiapan dan penyajian materi perkuliahan Wireless Communications dengan topik simulasi Direct Sequence Spread Spectrum menggunakan python.
 
 
-# Day 19 : 2020-04-03 (Fri)
+# Day 19 2020-04-03  Fri 
 
 [Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
 
@@ -597,7 +595,7 @@ Tampilan:
 
 
 
-# Day 20 : 2020-04-04 (Sat)
+# Day 20 2020-04-04  Sat 
 
 [Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
 
@@ -612,7 +610,7 @@ Tampilan:
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
 
 
-# Day 21 : 2020-04-05 (Sun)
+# Day 21 2020-04-05  Sun 
 
 [Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)
 
@@ -636,7 +634,7 @@ Tampilan:
 
 
 
-# Day 22 : 2020-04-06 (Mon)
+# Day 22 2020-04-06  Mon 
 
 [Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)
 
@@ -663,100 +661,3 @@ Tampilan:
 
         >>  defaults write com.apple.screencapture type [ jpg | pdf | tiff | gif ]
 
-
-
-<!--
-# IPG-NOTES: COURSERA subscription for Discrete Math
-https://www.coursera.org/learn/discrete-mathematics/home/welcome
-
- -->
-
-<!--
-# IPG-NOTES: Video link for Calculus (Infinite series) resources
-
-https://www.coursera.org/learn/discrete-calculus/lecture/Epd9A/convergence-tests-ii
-
->   https://www.coursera.org/lecture/discrete-calculus/infinite-series-48HRf?authMode=signup&redirectTo=%2Flecture%2Fdiscrete-calculus%2Finfinite-series-48HRf
-
-Infinite series:
-
->   https://d3c33hcgiwev3.cloudfront.net/NKGyMzyPEeWM-wqPLzH4ew.processed/full/360p/index.webm?Expires=1586217600&Signature=a3dJr999lNu7XoxaAKkLXYO33foiTZJCYO9xaAsz6QHlcIFCWapA6ZJTUBngVKUpBV0Je1XlnZO29pBO3V3rIgDIlSwCAp7DSesuDQpugxRSiuP5uXgZEP7xPuDGekTSYdN906X7CeWQC64aX1P8-9ZEepimWdqKyWZL7Lbr-9k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-
-Convergence Test 1
-
->   https://d3c33hcgiwev3.cloudfront.net/NKYfBjyPEeWkYw4zx_qqFQ.processed/full/540p/index.webm?Expires=1586217600&Signature=b7NtHYrk0Y66jYOzPV8N61wJqo5HuqTPD2ewx-hmW2mlIaWnGT~eR-4GTXB3t6yWL7h1SGUce77cBQpJJgi3~Lgb5JngPA6Vl32Y0j82i7l1XQblZIRH5uuBjXnCIyjYS0p8wF1kfyS4AF5FRGeBgE8HFvIWcPCOv28iObI8mOE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-
--->
-
-
-
-
-
-----------------------------------
-
-
-<!--
-
-# TODO: Penambahan fitur menyimpan konfigurasi simulasi dalam file teks
-
-# DONE: Update data global https://github.com/CSSEGISandData/COVID-19
-
-# TODO: Use template codes in pycharm
-
-# TODO: Change table definition (add more fields) to accomodate new report on OOBase
-
-# TODO: Modify report definition on ooBase
-
-# TODO: Data analysis on Moodle's log
-
- -->
-
-
-# Todo List
-* [x] Otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
-* [x] Analisis data menggunakan data worlwide JHU
-* [x] Menyimpan results hasil simulasi dalam bentuk datafile dengan format CSV
-* [x] Menyimpan konfigurasi simulasi dalam file tersendiri
-* [X] RPS Update - DSP \[DONE\]
-* [x] RPS Update - Calculus 2 \[REVISED\]
-* [x] RPS Update - Discrete Mathematics \[REVISED\]
-* [ ] RPS Update - Wireless Communications
-* [ ] Use template codes in pycharm
-* [ ] Change table definition (add more fields) to accomodate new report on OOBase
-* [ ] Modify report definition on ooBase
-* [ ] Data analysis on Moodle's log
-* [ ] MID-EXAM DRAFT: DSP - LaTeX \[ IN-PROGRESS \]
-* [ ] MID-EXAM DRAFT: Discrete Math - LaTeX \[ IN-PROGRESS \]
-* [ ] MID-EXAM DRAFT: Calculus 2 - LaTeX \[ IN-PROGRESS \]
-* [ ] MID-EXAM DRAFT: Wireless Communications - LaTeX \[ IN-PROGRESS \]
-* [ ] MID-EXAM DRAFT: DSP - Moodle
-* [ ] MID-EXAM DRAFT: Discrete Math - Moodle
-* [ ] MID-EXAM DRAFT: Calculus 2 - Moodle
-* [ ] MID-EXAM DRAFT: Wireless Communications - Moodle
-* [ ] Restructure Markdown document to accomodate automatic TOC
-
-
-# RESOURCES
-
-- https://github.com/bnsreenu/python_for_microscopists
-
-    Python for Microscopists and other image processing enthusiasts from basics to advanced machine learning and deep learning with  primary emphasis on image processing and other relevant functionality.
-
-- https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1
-
-    YouTube channel associated with the above websites.
-
-    
-- https://www.mathway.com/Calculus
-
-- https://www.lth.se/fileadmin/lth/genombrottet/konferens2018/F3_Olsen.pdf
-
-- http://calclab.math.tamu.edu/Python/FULLPythonDocumentation152.html
-
-- https://www.laptopmag.com/articles/change-macs-default-screenshot-directory
-
-- https://www.hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac
-
-    > defaults write com.apple.screencapture location [FOLDER]
-
-    > defaults write com.apple.screencapture location ~/Desktop
