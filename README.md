@@ -95,7 +95,7 @@ Versi detail dari laporan mingguan/harian tapi bersifat _unofficial_ dan _unstru
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
 
-# Day 01 (2020-03-16 Mon)
+# Day 01 2020-03-16 Mon
 
 [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
