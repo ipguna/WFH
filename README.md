@@ -8,70 +8,72 @@ Daily activities log during WFH period.
 - [WFH](#wfh)
   * [WFH Report - Official](#wfh-report---official)
   * [Detailed log](#detailed-log)
-    + [Table of contents:](#table-of-contents-)
-  * [[Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)](#-day-01---2020-03-16--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-16-)
-    + [Aktivitas](#aktivitas)
-    + [Dokumen:](#dokumen-)
-    + [Persiapan materi perkuliahan](#persiapan-materi-perkuliahan)
-  * [[Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)](#-day-02---2020-03-17--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-17-)
-    + [Aktivitas](#aktivitas-1)
-    + [Komunikasi](#komunikasi)
+    + [Contents:](#contents-)
+- [Day 01 : 2020-03-16 (Mon)](#day-01---2020-03-16--mon-)
+  * [Aktivitas](#aktivitas)
+  * [Dokumentasi](#dokumentasi)
+  * [Persiapan materi perkuliahan](#persiapan-materi-perkuliahan)
+- [Day 02 : 2020-03-17 (Tue)](#day-02---2020-03-17--tue-)
+  * [Aktivitas](#aktivitas-1)
+  * [Komunikasi](#komunikasi)
+  * [Dokumentasi](#dokumentasi-1)
+- [Day 03 : 2020-03-18 (Wed)](#day-03---2020-03-18--wed-)
+  * [Aktivitas](#aktivitas-2)
     + [Dokumen](#dokumen)
-  * [[Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)](#-day-03---2020-03-18--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-03-18-)
-    + [Aktivitas](#aktivitas-2)
-    + [Dokumen](#dokumen-1)
-  * [[Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)](#-day-04---2020-03-19--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-03-19-)
-    + [Aktivitas](#aktivitas-3)
-    + [Dokumen](#dokumen-2)
-  * [[Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)](#-day-05---2020-03-20--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-03-20-)
-    + [Aktivitas](#aktivitas-4)
+- [Day 04 : 2020-03-19 (Thu)](#day-04---2020-03-19--thu-)
+  * [Aktivitas](#aktivitas-3)
+  * [Dokumen](#dokumen-1)
+- [Day 05 : 2020-03-20 (Fri)](#day-05---2020-03-20--fri-)
+  * [Aktivitas](#aktivitas-4)
     + [Parsing data mentah dari Google spreadsheet](#parsing-data-mentah-dari-google-spreadsheet)
     + [Integrasi data untuk simulasi](#integrasi-data-untuk-simulasi)
       - [Metode](#metode)
       - [Hasil Pengetesan Integrasi Data](#hasil-pengetesan-integrasi-data)
-  * [Day 06 : 2020-03-21 (Sat)](#day-06---2020-03-21--sat-)
-    + [Aktivitas](#aktivitas-5)
+- [Day 06 : 2020-03-21 (Sat)](#day-06---2020-03-21--sat-)
+  * [Aktivitas](#aktivitas-5)
     + [Penambahan timestamp](#penambahan-timestamp)
-  * [Day 07 : 2020-03-22 (Sun)](#day-07---2020-03-22--sun-)
-    + [Aktivitas](#aktivitas-6)
+- [Day 07 : 2020-03-22 (Sun)](#day-07---2020-03-22--sun-)
+  * [Aktivitas](#aktivitas-6)
     + [E-learning kampus](#e-learning-kampus)
-  * [[Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)](#-day-08---2020-03-23--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-23-)
-    + [Aktivitas](#aktivitas-7)
-    + [Dokumen:](#dokumen--1)
-  * [[Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)](#-day-09---2020-03-24--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-24-)
-    + [Aktivitas](#aktivitas-8)
-  * [[Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)](#-day-10---2020-03-25--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-03-25-)
-    + [Aktivitas](#aktivitas-9)
+- [Day 08 : 2020-03-23 (Mon)](#day-08---2020-03-23--mon-)
+  * [Aktivitas](#aktivitas-7)
+  * [Dokumentasi:](#dokumentasi-)
+- [Day 09 : 2020-03-24 (Tue)](#day-09---2020-03-24--tue-)
+  * [Aktivitas](#aktivitas-8)
+- [Day 10 : 2020-03-25 (Wed)](#day-10---2020-03-25--wed-)
+  * [Aktivitas](#aktivitas-9)
       - [Video panduan](#video-panduan)
       - [Pembuatan Video panduan](#pembuatan-video-panduan)
       - [Website](#website)
-  * [[Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)](#-day-11---2020-03-26--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-03-26-)
-    + [Aktivitas](#aktivitas-10)
-  * [[Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)](#-day-12---2020-03-27--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-03-27-)
-    + [Aktivitas](#aktivitas-11)
+- [Day 11 : 2020-03-26 (Thu)](#day-11---2020-03-26--thu-)
+  * [Aktivitas](#aktivitas-10)
+- [Day 12 : 2020-03-27 (Fri)](#day-12---2020-03-27--fri-)
+  * [Aktivitas](#aktivitas-11)
     + [Laman sosialisasi corona virus](#laman-sosialisasi-corona-virus)
-  * [[Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)](#-day-15---2020-03-30--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-03-30-)
-    + [Aktivitas](#aktivitas-12)
-    + [Dokumen:](#dokumen--2)
-  * [[Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)](#-day-16---2020-03-31--tue---https---githubcom-ipguna-wfh-tree-master-log-2020-03-31-)
-    + [Aktivitas](#aktivitas-13)
-  * [[Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)](#-day-17---2020-04-01--wed---https---githubcom-ipguna-wfh-tree-master-log-2020-04-01-)
-    + [Aktivitas](#aktivitas-14)
-  * [[Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)](#-day-18---2020-04-02--thu---https---githubcom-ipguna-wfh-tree-master-log-2020-04-02-)
-    + [Aktivitas](#aktivitas-15)
-  * [[Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)](#-day-19---2020-04-03--fri---https---githubcom-ipguna-wfh-tree-master-log-2020-04-03-)
-    + [Aktivitas](#aktivitas-16)
-    + [Dokumen:](#dokumen--3)
-  * [[Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)](#-day-20---2020-04-04--sat---https---githubcom-ipguna-wfh-tree-master-log-2020-04-04-)
-    + [Aktivitas](#aktivitas-17)
-    + [Dokumen:](#dokumen--4)
-  * [[Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)](#-day-21---2020-04-05--sun---https---githubcom-ipguna-wfh-tree-master-log-2020-04-05-)
-    + [Aktivitas](#aktivitas-18)
-  * [[Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)](#-day-22---2020-04-06--mon---https---githubcom-ipguna-wfh-tree-master-log-2020-04-06-)
-    + [Aktivitas](#aktivitas-19)
+- [Day 15 : 2020-03-30 (Mon)](#day-15---2020-03-30--mon-)
+  * [Aktivitas](#aktivitas-12)
+  * [Dokumentasi:](#dokumentasi--1)
+- [Day 16 : 2020-03-31 (Tue)](#day-16---2020-03-31--tue-)
+  * [Aktivitas](#aktivitas-13)
+- [Day 17 : 2020-04-01 (Wed)](#day-17---2020-04-01--wed-)
+  * [Aktivitas](#aktivitas-14)
+- [Day 18 : 2020-04-02 (Thu)](#day-18---2020-04-02--thu-)
+  * [Aktivitas](#aktivitas-15)
+- [Day 19 : 2020-04-03 (Fri)](#day-19---2020-04-03--fri-)
+  * [Aktivitas](#aktivitas-16)
+  * [Dokumentasi:](#dokumentasi--2)
+- [Day 20 : 2020-04-04 (Sat)](#day-20---2020-04-04--sat-)
+  * [Aktivitas](#aktivitas-17)
+  * [Dokumentasi:](#dokumentasi--3)
+- [Day 21 : 2020-04-05 (Sun)](#day-21---2020-04-05--sun-)
+  * [Aktivitas](#aktivitas-18)
+- [IPG-NOTES: Video link for Calculus (Infinite series) resources](#ipg-notes--video-link-for-calculus--infinite-series--resources)
+- [Day 22 : 2020-04-06 (Mon)](#day-22---2020-04-06--mon-)
+  * [Aktivitas](#aktivitas-19)
     + [Notes](#notes)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## WFH Report - Official
@@ -87,7 +89,7 @@ Versi detail dari laporan mingguan/harian tapi bersifat _unofficial_ dan _unstru
 
 _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia pada judul catatan harian masing-masing, atau melalui link pada dokumen lainnya._
 
-### Table of contents:
+### Contents:
 
 - Week 1
     - [Day 01 : 2020-03-16 (Mon)](#day-01--2020-03-16-mon)
@@ -113,34 +115,38 @@ _Notes: dokumen pendukung (screenshots) bisa diakses melalui link yang tersedia 
     - [Day 19 : 2020-04-03 (Fri)](#day-19--2020-04-03-fri)
     - [Day 20 : 2020-04-04 (Sat)](#day-20--2020-04-04-sat)
 
-## [Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
+# Day 01 : 2020-03-16 (Mon)
 
-### Aktivitas
+[Day 01 : 2020-03-16 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
+
+## Aktivitas
 
 - Persiapan materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
 - Persiapan materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 - Penulisan [dokumen panduan](https://github.com/ipguna/TIF-RPS2020/blob/master/Teaching_Supervision_Guide_01.pdf) perkuliahan secara daring untuk mahasiswa
 
-### Dokumen:
+## Dokumentasi
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-16)
 
-### Persiapan materi perkuliahan
+## Persiapan materi perkuliahan
 
 - Pembuatan dan upload slide materi ke elearning moodle BIG 2.0
 - Penyajian tugas/latihan online
 - Setting up chat online dan forum diskusi pada Moodle di BIG 2.0.
 
 
-## [Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
+# Day 02 : 2020-03-17 (Tue)
 
-### Aktivitas
+[Day 02 : 2020-03-17 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
+
+## Aktivitas
 
 - Persiapan materi perkuliahan DSP (untuk jadwal reguler hari Rabu pkl. 07:30-10.00)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Komunikasi (ref. email) kepada Kabiro HRD dan Kabiro IT mengenai saran dan masukan petunjuk pelaksanaan pembelajaran daring
 
-### Komunikasi
+## Komunikasi
 
 Pemberian rekomendasi pembuatan panduan perkuliahan daring (Referensi: email to Kabiro HRD dan Kabiro IT)
 
@@ -164,15 +170,16 @@ Contoh panduan platform non-BIG 2.0:
 - Panduan Google Classroom / Google Hangout: https://www.youtube.com/watch?v=ZeACf_Slsb8
 
 
-
-### Dokumen
+## Dokumentasi
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-17)
 
 
-## [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
+# Day 03 : 2020-03-18 (Wed)
+ 
+ [Day 03 : 2020-03-18 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
-### Aktivitas
+## Aktivitas
 
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
 - Explorasi - simulasi penyebaran pasien nCovid-19 menggunakan python
@@ -190,9 +197,11 @@ Contoh panduan platform non-BIG 2.0:
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-18)
 
 
-## [Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
+# Day 04 : 2020-03-19 (Thu)
 
-### Aktivitas
+[Day 04 : 2020-03-19 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
+
+## Aktivitas
 
 - Penyajian online materi perkuliahan Komunikasi Nirkabel (untuk jadwal reguler hari Kamis pkl. 10.10-12.40 WIB)
 - Update dokumen panduan perkuliahan secara daring untuk mahasiswa
@@ -201,16 +210,18 @@ Contoh panduan platform non-BIG 2.0:
     +   TODO: menyimpan results hasil simulasi dalam bentuk datafile dengan format csv
     +   TODO: otomatisasi pembacaan/parsing data mentah dari web \[DONE - Updated [Day 05 : 2020-03-20 (Fri)](#day-05--2020-03-20-fri)\]
 
-### Dokumen
+## Dokumen
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-19)
 
 
 
 
-## [Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)
+# Day 05 : 2020-03-20 (Fri)
 
-### Aktivitas
+[Day 05 : 2020-03-20 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-20)
+
+## Aktivitas
 
 - Update dokumen RPS (_still in progress_)
 - Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python
@@ -331,9 +342,9 @@ berikutnya.
 
 <!-- --------------------------------------------------------- -->
 
-## Day 06 : 2020-03-21 (Sat)
+# Day 06 : 2020-03-21 (Sat)
 
-### Aktivitas
+## Aktivitas
 
 - Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python
 berupa penambahan fitur [timestamp](#penambahan-timestamp) pada file data yang disimpan.
@@ -381,9 +392,9 @@ Timestamp dalam bentuk string inilah yang akan kita tambahkan ke dalam
 
 <!-- --------------------------------------------------------- -->
 
-## Day 07 : 2020-03-22 (Sun)
+# Day 07 : 2020-03-22 (Sun)
 
-### Aktivitas
+## Aktivitas
 
 - Eksplorasi beberapa platform e-learning yang digunakan oleh beberapa kampus di Indonesia.
 - Persiapan materi perkuliahan
@@ -402,35 +413,41 @@ Yang cukup menarik adalah platform e-learning yang digunakan oleh UAD karena men
 Sebagai catatan tambahan, akses e-learning di atas melalui operator Telkomsel pada saat ini bebas biaya dengan kuota 30 GB (Layanan Bebas Akses Ilmupedia Telkomsel - https://www.telkomsel.com/paket-ilmupedia).
 
 
-## [Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
+# Day 08 : 2020-03-23 (Mon)
+
+[Day 08 : 2020-03-23 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
 
 
-### Aktivitas
+## Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
 - Persiapan dan penyajian materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 
-### Dokumen:
+## Dokumentasi:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
 <!-- --------------------------------------------------------- -->
 
-## [Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)
+# Day 09 : 2020-03-24 (Tue)
 
-### Aktivitas
+[Day 09 : 2020-03-24 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-24)
+
+## Aktivitas
 
 - Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus seluruh dunia (sumber data JHU/John Hopkins University dan diambil dari https://github.com/CSSEGISandData/COVID-19)
 
 
 <!-- --------------------------------------------------------- -->
 
-## [Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)
+# Day 10 : 2020-03-25 (Wed)
+
+[Day 10 : 2020-03-25 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-03-25)
 
 Tanggal 25 Maret 2020 adalah hari libur nasional (Hari Raya Nyepi) oleh karena itu jadwal kuliah reguler DSP (Rabu, 07.30-10.00) akan diganti dengan jadwal lain yang akan ditentukan kemudian.
 
-### Aktivitas
+## Aktivitas
 
 - Pembuatan video panduan perkuliahan secara daring untuk dosen
 - Pembuatan video panduan pengisian tugas/quiz/exam secara daring untuk mahasiswa
@@ -502,16 +519,20 @@ Tampilan proses editing halaman e-learning pada website:
 
 <!-- --------------------------------------------------------- -->
 
-## [Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)
+# Day 11 : 2020-03-26 (Thu)
 
-### Aktivitas
+[Day 11 : 2020-03-26 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-03-26)
+
+## Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan Komunikasi Nirkabel (jadwal reguler 10.00-12.40)
 
 
-## [Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)
+# Day 12 : 2020-03-27 (Fri)
 
-### Aktivitas
+[Day 12 : 2020-03-27 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-03-27)
+
+## Aktivitas
 
 - Pembuatan laman sosialisasi mengenai `coronavirus` yang bisa disebarkan kepada mahasiswa atau sivitas akademika UB
 - Lanjutan penelitian HDR
@@ -527,47 +548,57 @@ Tampilan:
 
 
 
-## [Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
+# Day 15 : 2020-03-30 (Mon)
+
+[Day 15 : 2020-03-30 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
 
 
 
-### Aktivitas
+## Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
 - Persiapan dan penyajian materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 
-### Dokumen:
+## Dokumentasi:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-30)
 
 <!-- --------------------------------------------------------- -->
 
-## [Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)
+# Day 16 : 2020-03-31 (Tue)
 
-### Aktivitas
+[Day 16 : 2020-03-31 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-03-31)
+
+## Aktivitas
 
 - Continued: simulasi model matematika penyebaran kasus Covid-19 dengan python menggunakan data kasus Indonesia yang dibandingkan dengan negara-negara ASEAN menggunakan sumber data JHU/John Hopkins University (https://github.com/CSSEGISandData/COVID-19)
 
 
 <!-- --------------------------------------------------------- -->
 
-## [Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)
+# Day 17 : 2020-04-01 (Wed)
 
-### Aktivitas
+[Day 17 : 2020-04-01 (Wed)](https://github.com/ipguna/WFH/tree/master/log/2020-04-01)
+
+## Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan DSP dengan topik simulasi discrete time signal manipulation menggunakan python.
 
 
-## [Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)
+# Day 18 : 2020-04-02 (Thu)
 
-### Aktivitas
+[Day 18 : 2020-04-02 (Thu)](https://github.com/ipguna/WFH/tree/master/log/2020-04-02)
+
+## Aktivitas
 
 - Persiapan dan penyajian materi perkuliahan Wireless Communications dengan topik simulasi Direct Sequence Spread Spectrum menggunakan python.
 
 
-## [Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
+# Day 19 : 2020-04-03 (Fri)
 
-### Aktivitas
+[Day 19 : 2020-04-03 (Fri)](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
+
+## Aktivitas
 
 - Pembuatan form survey bagi mahasiswa bimbingan PA untuk pemutakhiran data dan pengecekan kondisi terakhir masing-masing. Form survey bisa diakses secara online melalui
     >  https://sites.google.com/view/ubipguna/cv19/academic-supervision
@@ -580,28 +611,32 @@ Tampilan:
 - Ikut berpartisipasi sebagai peserta/audience dalam Seminar On-line yang diadakan oleh LPkM UB dengan tema "Literasi Corvid-19" melalui aplikasi zoom.
 
 
-### Dokumen:
+## Dokumentasi:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-03)
 
 
 
-## [Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
+# Day 20 : 2020-04-04 (Sat)
 
-### Aktivitas
+[Day 20 : 2020-04-04 (Sat)](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
+
+## Aktivitas
 
 - Aplikasi Database berbasis OpenOffice (WARRM = Wfh Activities Recording, Reporting, and Monitoring)
 
     Reporting untuk pekerjaan mingguan akan dilakukan dengan bantuan aplikasi database ini. Pada aplikasi database berbasis OpenOffice Base ini terdapat fitur pembuatan report otomatis berdasarkan entry yang ada pada database. Hal ini tentu akan mempermudah proses pembuatan report karena sebagian proses pembuatan report seperti layout akan dilakukan oleh aplikasi. Pencatatan item pekerjaan yang sifatnya kurang lebih repetitif dari minggu ke minggu (walaupun dengan sedikit adanya variasi) bisa dipermudah daripada harus memasukkan informasi ini secara langsung ke dalam report mingguan.
 
-### Dokumen:
+## Dokumentasi:
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-04)
 
 
-## [Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)
+# Day 21 : 2020-04-05 (Sun)
 
-### Aktivitas
+[Day 21 : 2020-04-05 (Sun)](https://github.com/ipguna/WFH/tree/master/log/2020-04-05)
+
+## Aktivitas
 
 - Persiapan Laporan Mingguan WFH dengan format F-SDM-55
 
@@ -637,9 +672,11 @@ Convergence Test 1
 -->
 
 
-## [Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)
+# Day 22 : 2020-04-06 (Mon)
 
-### Aktivitas
+[Day 22 : 2020-04-06 (Mon)](https://github.com/ipguna/WFH/tree/master/log/2020-04-06)
+
+## Aktivitas
 
 - Perkuliahan - Discrete Math: persiapan materi ajar (slides, notes, tugas/assignment, dan video lectures)
 
@@ -715,7 +752,7 @@ https://www.coursera.org/learn/discrete-mathematics/home/welcome
 * [ ] MID-EXAM DRAFT: Discrete Math - Moodle
 * [ ] MID-EXAM DRAFT: Calculus 2 - Moodle
 * [ ] MID-EXAM DRAFT: Wireless Communications - Moodle
-
+* [ ] Restructure Markdown document to accomodate automatic TOC
 
 
 # RESOURCES
