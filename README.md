@@ -6,7 +6,7 @@ WFH
 **Author:** *Irwan Prasetya Gunawan*
 
 Daily activities log during WFH period.
-&nbsp;<details open><summary>**Table of Content**</summary>
+&nbsp;<details><summary>**Table of Content**</summary>
 
 - [WFH](#wfh)
   * [WFH Report - Official](#wfh-report---official)
@@ -119,6 +119,7 @@ Official Reports are updated/uploaded on each submission period:
 - Week of 20200405: Read/download the report [here](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200405.pdf)
 - Week of 20200412: Read/download the report [here](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200412.pdf)
 
+https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200412.pdf
 
 ## Detailed log
 
