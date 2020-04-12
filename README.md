@@ -6,6 +6,7 @@ WFH
 **Author:** *Irwan Prasetya Gunawan*
 
 Daily activities log during WFH period.
+&nbsp;<details open><summary>**Table of Content**</summary>
 
 - [WFH](#wfh)
   * [WFH Report - Official](#wfh-report---official)
@@ -41,58 +42,82 @@ Daily activities log during WFH period.
   * [Dokumentasi](#dokumentasi-6)
 - [Day 08 2020-03-23  Mon](#day-08-2020-03-23--mon)
   * [Aktivitas](#aktivitas-7)
-  * [Dokumentasi:](#dokumentasi-)
+  * [Dokumentasi](#dokumentasi-7)
 - [Day 09 2020-03-24  Tue](#day-09-2020-03-24--tue)
   * [Aktivitas](#aktivitas-8)
-  * [Dokumentasi](#dokumentasi-7)
+  * [Dokumentasi](#dokumentasi-8)
 - [Day 10 2020-03-25  Wed](#day-10-2020-03-25--wed)
   * [Aktivitas](#aktivitas-9)
       - [Video panduan](#video-panduan)
       - [Pembuatan Video panduan](#pembuatan-video-panduan)
       - [Website](#website)
-  * [Dokumentasi](#dokumentasi-8)
+  * [Dokumentasi](#dokumentasi-9)
 - [Day 11 2020-03-26  Thu](#day-11-2020-03-26--thu)
   * [Aktivitas](#aktivitas-10)
-  * [Dokumentasi](#dokumentasi-9)
+  * [Dokumentasi](#dokumentasi-10)
 - [Day 12 2020-03-27  Fri](#day-12-2020-03-27--fri)
   * [Aktivitas](#aktivitas-11)
     + [Laman sosialisasi corona virus](#laman-sosialisasi-corona-virus)
-  * [Dokumentasi](#dokumentasi-10)
+  * [Dokumentasi](#dokumentasi-11)
 - [Day 15 2020-03-30  Mon](#day-15-2020-03-30--mon)
   * [Aktivitas](#aktivitas-12)
-  * [Dokumentasi](#dokumentasi-11)
+  * [Dokumentasi](#dokumentasi-12)
 - [Day 16 2020-03-31  Tue](#day-16-2020-03-31--tue)
   * [Aktivitas](#aktivitas-13)
-  * [Dokumentasi](#dokumentasi-12)
+  * [Dokumentasi](#dokumentasi-13)
 - [Day 17 2020-04-01  Wed](#day-17-2020-04-01--wed)
   * [Aktivitas](#aktivitas-14)
-  * [Dokumentasi](#dokumentasi-13)
+  * [Dokumentasi](#dokumentasi-14)
 - [Day 18 2020-04-02  Thu](#day-18-2020-04-02--thu)
   * [Aktivitas](#aktivitas-15)
-  * [Dokumentasi](#dokumentasi-14)
+  * [Dokumentasi](#dokumentasi-15)
 - [Day 19 2020-04-03  Fri](#day-19-2020-04-03--fri)
   * [Aktivitas](#aktivitas-16)
-  * [Dokumentasi:](#dokumentasi--1)
+  * [Dokumentasi:](#dokumentasi-)
 - [Day 20 2020-04-04  Sat](#day-20-2020-04-04--sat)
   * [Aktivitas](#aktivitas-17)
-  * [Dokumentasi](#dokumentasi-15)
+  * [Dokumentasi](#dokumentasi-16)
 - [Day 21 2020-04-05  Sun](#day-21-2020-04-05--sun)
   * [Aktivitas](#aktivitas-18)
-  * [Dokumentasi](#dokumentasi-16)
+  * [Dokumentasi](#dokumentasi-17)
 - [Day 22 2020-04-06  Mon](#day-22-2020-04-06--mon)
   * [Aktivitas](#aktivitas-19)
+    + [Perkuliahan - Calculus 2](#perkuliahan---calculus-2)
+    + [Perkuliahan - Discrete Math](#perkuliahan---discrete-math)
     + [Notes](#notes)
-  * [Dokumentasi](#dokumentasi-17)
+  * [Dokumentasi](#dokumentasi-18)
+- [Day 23 2020-04-07 Tue](#day-23-2020-04-07-tue)
+  * [Aktivitas](#aktivitas-20)
+    + [Penelitian](#penelitian)
+    + [Lain-lain](#lain-lain)
+    + [Notes](#notes-1)
+  * [Dokumentasi](#dokumentasi-19)
+- [Day 24 2020-04-08 Wed](#day-24-2020-04-08-wed)
+  * [Aktivitas](#aktivitas-21)
+    + [Perkuliahan DSP](#perkuliahan-dsp)
+    + [Notes](#notes-2)
+  * [Dokumentasi](#dokumentasi-20)
+- [Day 25 2020-04-09 Thu](#day-25-2020-04-09-thu)
+  * [Aktivitas](#aktivitas-22)
+    + [Perkuliahan - Komunikasi Nirkabel](#perkuliahan---komunikasi-nirkabel)
+    + [Lain-lain](#lain-lain-1)
+    + [Notes](#notes-3)
+  * [Dokumentasi](#dokumentasi-21)
+- [Day 26 2020-04-10 Fri](#day-26-2020-04-10-fri)
+  * [Aktivitas](#aktivitas-23)
+ 
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+&nbsp;</details>
 
 
 ## WFH Report - Official
 
-Reports are updated/uploaded on each submission period:
+Official Reports are updated/uploaded on each submission period:
 
 - Week of 20200405: Read/download the report [here](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200405.pdf)
+- Week of 20200412: Read/download the report [here](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200412.pdf)
 
 
 ## Detailed log
@@ -438,7 +463,7 @@ Back to [TOP](#wfh)
 - Persiapan dan penyajian materi perkuliahan Kalkulus 2 (jadwal reguler 07:30-09.00)
 - Persiapan dan penyajian materi perkuliahan Matematika Diskret (jadwal reguler 10.00-12.40)
 
-## Dokumentasi:
+## Dokumentasi
 
 - [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-03-23)
 
@@ -710,26 +735,26 @@ Back to [TOP](#wfh)
 
 ## Aktivitas
 
-- Perkuliahan - Calculus 2: persiapan materi ajar (slides, notes, tugas/assignment, dan video lectures)
+### Perkuliahan - Calculus 2
 
-    * [x] Prepare question
-    * [x] Upload Question to BIG
-    * [x] Prepare Notes
-    * [x] Upload Notes to BIG
-    * [x] Prepare Slides
-    * [x] Upload Slides to BIG
-    * [x] Prepare Lessons activities: video links and their associates questions
+Topics: infinite series, convergence / divergence of infinite series, various test on infinite series (limit test, integral test, etc).
 
-- Perkuliahan - Discrete Math: persiapan materi ajar (slides, notes, tugas/assignment, dan video lectures)
+Assignment: summary of video lectures; numerical / calculation task.
 
-    * [x] Prepare question
-    * [x] Upload Question to BIG
-    * [ ] Prepare Notes
-    * [ ] Upload Notes to BIG
-    * [x] Prepare Slides
-    * [x] Upload Slides to BIG
-    * [x] Prepare Lessons activities
-    * [x] Prepare video links and their associates questions
+* [x] Menyiapkan item pembelajaran.
+* [x] Aktivitas belajar online via Lesson.
+* [x] Aktivitas belajar online Quiz/Tugas
+* [x] Absensi dan Pengisian BAP online.
+
+
+### Perkuliahan - Discrete Math
+
+Topics: Algorithms and Big O Notations for evaluating the complexity of an algorithm.
+
+* [x] Menyiapkan item pembelajaran.
+* [x] Aktivitas belajar online via Lesson.
+* [x] Aktivitas belajar online Quiz/Tugas
+* [x] Absensi dan Pengisian BAP online.
 
 ### Notes
 
@@ -748,5 +773,202 @@ Back to [TOP](#wfh)
 
 Back to [TOP](#wfh)
 
+----------------------------------
+
+# Day 23 2020-04-07 Tue 
+
+[Day 23 : 2020-04-07 (Tue)](https://github.com/ipguna/WFH/tree/master/log/2020-04-07)
+
+## Aktivitas
+
+### Penelitian
+
+* [X] Simulasi/pemrograman. <!--log/2020-04-07/Screen Shot 2020-04-07 at 7.52.18 PM.png-->
+* [X] Analisis data experimen. <!--log/2020-04-07/Screen Shot 2020-04-07 at 7.55.32 PM.png-->
+
+### Lain-lain
+
+* [X] Penulisan kode program pendukung pekerjaan. <!--log/2020-04-07/Screen Shot 2020-04-07 at 7.57.58 PM.png-->
+* [X] Pendokumentasian kode program. <!--log/2020-04-07/Screen Shot 2020-04-07 at 8.08.07 PM.png-->
+
+### Notes
+
+Pembuatan/penyempurnaan dan editing tools pendukung pekerjaan dalam membuat laporan mingguan WFH dengan menggunakan database berbasis OpenOffice Base, berikut shell script untuk online backup menggunakan repository github. 
+
+Simulasi pemrograman untuk pendukung perkuliahan (pengayaan materi menggunakan simulasi berbasis python). 
+
+## Dokumentasi
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-07)
+
+
+Back to [TOP](#wfh)
 
 ----------------------------------
+
+# Day 24 2020-04-08 Wed
+
+[Day 24 : 2020-04-08 Wed](https://github.com/ipguna/WFH/tree/master/log/2020-04-08)
+
+## Aktivitas
+
+### Perkuliahan DSP
+
+Jadwal rutin Rabu, pkl. 07.30-10.00 WIB.
+
+* [x] Menyiapkan item pembelajaran.
+* [x] Aktivitas belajar online via Lesson.
+* [x] Aktivitas belajar online Quiz/Tugas
+* [x] Absensi dan Pengisian BAP online.
+
+
+### Notes
+
+Topics for DSP Lecture:
+- LTI System description
+- Basic concept of convolution
+- Array algorithm of convolution
+- Impulse response
+- Moving average filter
+- Leaky integrator filter
+
+## Dokumentasi
+
+- [Screenshot aktivitas](https://githu.com/ipguna/WFH/tree/master/log/2020-04-08)
+
+Back to [TOP](#wfh)
+
+
+----------------------------------
+
+# Day 25 2020-04-09 Thu
+
+[Day 25 2020-04-09 Thu](https://github.com/ipguna/WFH/tree/master/log/2020-04-09)
+
+## Aktivitas
+
+### Perkuliahan - Komunikasi Nirkabel
+
+Jadwal rutin Kamis, 10.30-12.40 WIB
+
+* [x] Menyiapkan item pembelajaran.
+* [x] Aktivitas belajar online via Lesson.
+* [x] Aktivitas belajar online Quiz/Tugas
+* [x] Absensi dan Pengisian BAP online
+
+### Lain-lain
+
+* [x] Partisipasi peserta pada seminar.
+
+### Notes
+
+Lecture topics: 
+- Coding and error control
+- Polynomial codes
+- Channel coding
+- Hamming codes
+
+Assignment: Polynomial codes
+
+Lain-lain: 
+- Partisipan pasif dalam Bincang-Bincang Penelitian dan Pengabdian Masyarakat dalam penanganan Covid-19; penyelenggara: LL2DIKTI
+- Partisipan pasif dalam TIK-Talk#18: Kolaborasi Perguruan Tinggi dan Operator Telekomunikasi dalam pembelajaran jarak jauh; penyelenggara: Wantiknas
+
+## Dokumentasi
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-09)
+
+Back to [TOP](#wfh)
+
+----------------------------------
+
+# Day 26 2020-04-10 Fri
+
+[Day 26 2020-04-10 Fri](https://github.com/ipguna/WFH/tree/master/log/2020-04-10)
+
+## Aktivitas
+
+Tanggal 10 April 2020 adalah hari libur nasional (Wafatnya Isa Almasih); oleh karena itu, tidak ada kegiatan pekerjaan yang dilakukan. 
+
+<!--Walaupun demikian, ada beberapa hal yang dilakukan sehubungan dengan pekerjaan rutin yang dilakukan dengan intensitas ringan. -->
+
+<!--
+### Perkuliahan 
+
+
+* [ ] Prepare question.
+* [ ] Upload Question to BIG.
+* [ ] Prepare Notes.
+* [ ] Upload Notes to BIG.
+* [ ] Prepare Slides.
+* [ ] Upload Slides to BIG.
+* [ ] Prepare Lessons activities.
+* [ ] Prepare video links and their associates questions.
+* [ ] Menyiapkan item pembelajaran.
+* [ ] Aktivitas belajar online via Lesson.
+* [ ] Aktivitas belajar online Quiz/Tugas
+* [ ] Absensi dan Pengisian BAP online.
+* [ ] Grading/correction Quiz.
+* [x] Grading/correction Assignment.
+* [ ] Grading/correction Exam.
+* [x] Penulisan DRAFT EXAM.
+
+### Bimbingan Mahasiswa
+
+* [ ] Bimbingan Tugas Akhir.
+* [ ] Bimbingan Akademis.
+* [ ] Bimbingan KRS.
+* [ ] Seminar proposal.
+* [ ] Sidang Tugas Akhir.
+* [ ] Media bimbingan: WA.
+* [ ] Media bimbingan: video call.
+* [ ] Media bimbingan: forum diskusi BIG 2.0.
+* [ ] Media bimbingan: online chat BIG 2.0.
+
+### Penelitian
+
+* [ ] Penulisan draft artikel.
+* [ ] Penulisan proposal penelitian.
+* [x] Simulasi/pemrograman.
+* [ ] Literature review.
+* [ ] Pengiriman artikel untuk jurnal.
+* [ ] Pengiriman artikel untuk konferensi.
+* [ ] Penyaji/presenter pada seminar.
+* [ ] Partisipasi peserta pada seminar.
+* [ ] Penulisan catatan harian penelitian.
+* [ ] Pengumpulan data.
+* [ ] Analisis data experimen.
+* [ ] Pembuatan ringkasan paper.
+* [ ] Pencarian literatur.
+* [ ] Persiapan partisipasi seminar.
+
+
+### Pengabdian Kepada Masyarakat
+
+* [ ] Penulisan proposal PKM.
+* [ ] Penulisan laporan PKM.
+* [ ] Penyaji pada kegiatan PKM.
+* [ ] Meeting untuk persiapan kegiatan PKM.
+* [ ] Partisipasi dalam seminar PKM.
+
+### Lain-lain
+
+* [ ] Mengupload video material.
+* [ ] Penulisan kode program pendukung perkuliahan.
+* [ ] Pengetesan kode program pendukung perkuliahan.
+* [x] Pembuatan tools pendukung pekerjaan.
+* [ ] Debugging kode program.
+* [ ] Pengarsipan kode program.
+* [ ] Pendokumentasi kode program.
+
+### Notes
+
+## Dokumentasi
+
+- [Screenshot aktivitas](https://github.com/ipguna/WFH/tree/master/log/2020-04-10)
+-->
+
+Back to [TOP](#wfh)
+
+----------------------------------
+
