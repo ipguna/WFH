@@ -116,13 +116,14 @@ Daily activities log during WFH period.
 
 Official Reports are updated/uploaded on each submission period:
 
-- Week of 20200405: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200405rev.pdf)
-- Week of 20200412: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200412.pdf)
-- Week of 20200419: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200419.pdf)
-- Week of 20200426: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200426.pdf)
-- Week of 20200503: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200503.pdf)
-- Week of 20200510: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200510.pdf)
-- Week of 20200517: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200517.pdf)
+- Session 06 Week of 20200405: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200405rev.pdf)
+- Session 07 Week of 20200412: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200412.pdf)
+- Session 07 Week of 20200419: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200419.pdf)
+- Session 07 Week of 20200426: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200426.pdf)
+- Session 08 Week of 20200503: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200503.pdf)
+- Session 09 Week of 20200510: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200510.pdf)
+- Session 10 Week of 20200517: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200517.pdf)
+- Session 11 Week of 20200614: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200614.pdf)
 
 
 ## Detailed log
