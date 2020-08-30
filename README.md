@@ -134,6 +134,7 @@ Official Reports are updated/uploaded on each submission period:
 - Session 19 Week of 20200809: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200809.pdf)  <!-- / [download](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200809-copy.docx) -->
 - Session 20 Week of 20200816: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200816.pdf)  <!-- / [download](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200816-copy.docx) -->
 - Session 21 Week of 20200823: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200823.pdf)  <!-- / [download](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200823-copy.docx) -->
+- Session 22 Week of 20200830: Read/download the report [here](https://github.com/ipguna/WFH/blob/master/report/F-SDM-22-IPG-20200830.pdf)  <!-- / [download](https://github.com/ipguna/WFH/raw/master/report/F-SDM-22-IPG-20200830-copy.docx) -->
 
 
 ## Detailed log
